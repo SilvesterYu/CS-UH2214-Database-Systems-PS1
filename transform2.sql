@@ -42,8 +42,9 @@ alter table publication
 add constraint unique_pubkey unique (pubkey);
 */
 
+-------------------------------- run this after having ublication table--------------------------
 ------------------------------------- populate book table ---------------------------------------
-/*
+
 drop table if exists book;
 create table Book(
 	pubid integer not null,
@@ -55,31 +56,21 @@ delete from book;
 alter table book
 drop constraint if exists book_unique_pubid;
 
-drop table if exists book3;
-create table book3 as
-select distinct pubid, a.v as publisher, b.v as isbn from publication join pub on pub.pubk = pubkey 
-left join field a on a.k = pubkey 
-left join field b on b.k = pubkey 
-where pub.pubp = 'book' and a.p = 'publisher' and b.p = 'isbn';
-
-insert into book (pubid)
-(select distinct pubid from book3);
-
-update book set (publisher, isbn) = 
-(select publisher, isbn from book3 where book.pubid = book3.pubid limit 1);
+insert into book 
+(select distinct pubid, a.v as publisher, b.v as isbn from publication join pub on pub.pubk = pubkey 
+left join field a on a.k = pubkey and a.p = 'publisher'
+left join field b on b.k = pubkey and b.p = 'isbn'
+where pub.pubp = 'book') ;
 
 alter table book
-add constraint book_unique_pubid unique(pubid);
+add foreign key (pubid) references publication(pubid);
 
-alter table book
-add primary key (pubid);
-*/
 
 ------------------------------------- populate article table ---------------------------------------
-/*
+
 drop table if exists article;
 create table Article(
-	pubid integer not null primary key,
+	pubid integer not null,
 	journal text,
 	month text,
 	volume text,
@@ -92,34 +83,67 @@ drop constraint if exists article_unique_pubid;
 alter table article
 drop constraint if exists article_pkey;
 
-drop table if exists article3;
-create table article3 as
-select distinct pubid, a.v as journal, b.v as month, c.v as volume, d.v as number from publication join pub on pub.pubk = publication.pubkey 
-left join field a on a.k = publication.pubkey 
-left join field b on b.k = publication.pubkey 
-left join field c on c.k = publication.pubkey 
-left join field d on d.k = publication.pubkey 
-where pub.pubp = 'article' and a.p = 'journal' and b.p = 'month' and c.p = 'volume' and d.p = 'number';
-
-Do
-$do$
-begin
-raise notice 'done creating article3';
-insert into article (pubid, journal, month, volume, number)
-(select pubid, journal, month, volume, number from article3);
-raise notice 'inserted into article';
+insert into article
+(select distinct pubid, a.v as journal, b.v as month, c.v as volume, d.v as number from publication join pub on pub.pubk = publication.pubkey 
+left join field a on a.k = publication.pubkey and a.p = 'journal' 
+left join field b on b.k = publication.pubkey and b.p = 'month'
+left join field c on c.k = publication.pubkey and c.p = 'volume'
+left join field d on d.k = publication.pubkey and d.p = 'number'
+where pub.pubp = 'article');
 
 alter table article
-add constraint article_unique_pubid unique(pubid);
-
-alter table article
-add primary key (pubid);
-end;
-$do$;
-*/
+add foreign key (pubid) references publication(pubid);
 
 
+------------------------------------- populate inproceedings table ---------------------------------------
 
+drop table if exists inproceedings;
+create table Inproceedings(
+	pubid integer not null,
+	booktitle text,
+	editor text
+);
+
+delete from inproceedings;
+alter table inproceedings
+drop constraint if exists inproceedings_unique_pubid;
+alter table inproceedings
+drop constraint if exists inproceedings_pkey;
+
+insert into inproceedings
+(select distinct pubid, a.v as booktitle, b.v as editor from publication join pub on pub.pubk = publication.pubkey 
+left join field a on a.k = publication.pubkey and a.p = 'booktitle'
+left join field b on b.k = publication.pubkey and b.p = 'editor'
+where pub.pubp = 'inproceedings') ;
+
+alter table inproceedings
+add foreign key (pubid) references publication(pubid);
+
+------------------------------------- populate incollection table ---------------------------------------
+
+drop table if exists incollection;
+create table incollection(
+	pubid integer not null,
+	booktitle text,
+	publisher text,
+	isbn text
+);
+
+delete from incollection;
+alter table incollection
+drop constraint if exists incollection_unique_pubid;
+alter table incollection
+drop constraint if exists incollection_pkey;
+
+insert into incollection
+(select distinct pubid, a.v as booktitle, b.v as publisher, c.v as isbn from publication join pub on pub.pubk = publication.pubkey 
+left join field a on a.k = publication.pubkey and a.p = 'booktitle'
+left join field b on b.k = publication.pubkey and b.p = 'publisher'
+left join field c on c.k = publication.pubkey and c.p = 'isbn'
+where pub.pubp = 'incollection') ;
+
+alter table incollection
+add foreign key (pubid) references publication(pubid);
 
 
 
