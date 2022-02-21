@@ -126,7 +126,7 @@ alter table publication
 add constraint unique_pubkey unique (pubkey);
 */
 
-/*
+
 ------------------------------- run this after having publication table--------------------------
 ------------------------------------- populate book table ---------------------------------------
 
@@ -208,7 +208,7 @@ where pub.pubp = 'incollection') ;
 alter table incollection
 add foreign key (pubid) references publication(pubid);
 
-*/
+
 
 
 ------------------------------------------ populate authored table ------------------------------------------
