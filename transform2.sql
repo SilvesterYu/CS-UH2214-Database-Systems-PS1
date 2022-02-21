@@ -1,3 +1,87 @@
+/*
+---------------------------- create a merged table with all raw data -----------------------
+DO
+$do$
+    BEGIN
+        ALTER TABLE pub
+            RENAME COLUMN p TO pubp;
+		ALTER TABLE pub
+			RENAME COLUMN k TO pubk;
+    EXCEPTION
+        when undefined_column then raise notice 'pub.p already renamed to pub.pubp';
+     END;
+$do$;
+
+create table if not exists merged as
+	select * from field join pub on field.k = pub.pubk;
+	
+DO
+$do$
+begin
+	ALTER sequence merged_id_seq RESTART WITH 1;
+  	raise notice 'merged.id successfully restarted';
+	EXCEPTION WHEN OTHERS THEN
+		alter table merged
+			add id
+			serial primary key;
+		raise notice 'merged.id successfully created';
+end;
+$do$;
+
+create index if not exists merged_index
+	on merged(id, k, p, v, pubp);
+*/
+
+/*	
+----------------------------------populate author table--------------------------------------
+-- create table with all authors who has a homepage
+drop table if exists awithhomepage;
+create table awithhomepage as
+select distinct v1, v2 from (select distinct k as k1, v as v1 from merged where p = 'author') as temp1 join (select k as k2, v as v2 from merged where pubp = 'www' and p = 'url') as temp2
+on temp1.k1 = temp2.k2;
+
+
+-- create table with authors who don't have a homepage record
+
+drop table if exists awithouthomepage;
+create table awithouthomepage as
+select distinct v from merged where p = 'author' except (select v1 from awithhomepage);
+
+
+
+-- put into author table the authors with homepage
+DO
+$do$
+declare aname text;
+declare ahomepage text;
+begin
+	for aname in select distinct v1 from awithhomepage a1 loop
+		
+		select v2 into ahomepage from awithhomepage a1 where a1.v1 = aname limit 1;
+		insert into author(name, homepage)
+			values(aname, ahomepage);
+		raise notice 'value: %', (aname, ahomepage);
+	end loop;
+end
+$do$;
+
+-- put into author table the authors without homepage
+DO
+$do$
+declare aname text;
+declare ahomepage text;
+begin
+	for aname in select distinct v from awithouthomepage a2 loop
+		insert into author(name)
+			values(aname);
+		raise notice 'value: %', aname;
+	end loop;
+end
+$do$;
+*/
+
+
+
 -------------------------run this after merged table has index column-------------------------
 --------------------- delete homepage entries before populating publication-----------
 /*
@@ -42,7 +126,8 @@ alter table publication
 add constraint unique_pubkey unique (pubkey);
 */
 
--------------------------------- run this after having ublication table--------------------------
+/*
+------------------------------- run this after having publication table--------------------------
 ------------------------------------- populate book table ---------------------------------------
 
 drop table if exists book;
@@ -123,9 +208,22 @@ where pub.pubp = 'incollection') ;
 alter table incollection
 add foreign key (pubid) references publication(pubid);
 
+*/
 
 
+------------------------------------------ populate authored table ------------------------------------------
+delete from authored;
+insert into authored
+select distinct id, pubid from
+author, publication, field
+where author.name = field.v and field.k = publication.pubkey;
 
+------------------------------------------ remove all temporary tables ---------------------------------------
+/*
+drop table if exists merged;
+drop table ir exists awithhomepage;
+drop table if exists awithouthomepage;
+*/
 
 
 
