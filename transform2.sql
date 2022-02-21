@@ -52,10 +52,6 @@ create table Book(
 	isbn text
 );
 
-delete from book;
-alter table book
-drop constraint if exists book_unique_pubid;
-
 insert into book 
 (select distinct pubid, a.v as publisher, b.v as isbn from publication join pub on pub.pubk = pubkey 
 left join field a on a.k = pubkey and a.p = 'publisher'
@@ -76,12 +72,6 @@ create table Article(
 	volume text,
 	number text
 );
-
-delete from article;
-alter table article
-drop constraint if exists article_unique_pubid;
-alter table article
-drop constraint if exists article_pkey;
 
 insert into article
 (select distinct pubid, a.v as journal, b.v as month, c.v as volume, d.v as number from publication join pub on pub.pubk = publication.pubkey 
@@ -104,12 +94,6 @@ create table Inproceedings(
 	editor text
 );
 
-delete from inproceedings;
-alter table inproceedings
-drop constraint if exists inproceedings_unique_pubid;
-alter table inproceedings
-drop constraint if exists inproceedings_pkey;
-
 insert into inproceedings
 (select distinct pubid, a.v as booktitle, b.v as editor from publication join pub on pub.pubk = publication.pubkey 
 left join field a on a.k = publication.pubkey and a.p = 'booktitle'
@@ -129,12 +113,6 @@ create table incollection(
 	isbn text
 );
 
-delete from incollection;
-alter table incollection
-drop constraint if exists incollection_unique_pubid;
-alter table incollection
-drop constraint if exists incollection_pkey;
-
 insert into incollection
 (select distinct pubid, a.v as booktitle, b.v as publisher, c.v as isbn from publication join pub on pub.pubk = publication.pubkey 
 left join field a on a.k = publication.pubkey and a.p = 'booktitle'
@@ -144,6 +122,7 @@ where pub.pubp = 'incollection') ;
 
 alter table incollection
 add foreign key (pubid) references publication(pubid);
+
 
 
 
