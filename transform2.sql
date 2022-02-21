@@ -41,8 +41,9 @@ having count(pubkey) > 1)
 alter table publication
 add constraint unique_pubkey unique (pubkey);
 */
-------------------------------------- populate book table ---------------------------------------
 
+------------------------------------- populate book table ---------------------------------------
+/*
 drop table if exists book;
 create table Book(
 	pubid integer not null,
@@ -57,9 +58,9 @@ drop constraint if exists book_unique_pubid;
 drop table if exists book3;
 create table book3 as
 select distinct pubid, a.v as publisher, b.v as isbn from publication join pub on pub.pubk = pubkey 
-left join field a on a.k = pubkey and a.p = 'publisher'
-left join field b on b.k = pubkey and b.p = 'isbn'
-where pub.pubp = 'book';
+left join field a on a.k = pubkey 
+left join field b on b.k = pubkey 
+where pub.pubp = 'book' and a.p = 'publisher' and b.p = 'isbn';
 
 insert into book (pubid)
 (select distinct pubid from book3);
@@ -67,12 +68,15 @@ insert into book (pubid)
 update book set (publisher, isbn) = 
 (select publisher, isbn from book3 where book.pubid = book3.pubid limit 1);
 
+alter table book
+add constraint book_unique_pubid unique(pubid);
 
 alter table book
 add primary key (pubid);
+*/
 
 ------------------------------------- populate article table ---------------------------------------
-
+/*
 drop table if exists article;
 create table Article(
 	pubid integer not null primary key,
@@ -85,28 +89,37 @@ create table Article(
 delete from article;
 alter table article
 drop constraint if exists article_unique_pubid;
+alter table article
+drop constraint if exists article_pkey;
 
 drop table if exists article3;
 create table article3 as
-select distinct pubid, a.v as journal, b.v as month, c.v as volume, d.v as number from publication join pub on pub.pubk = pubkey 
-left join field a on a.k = pubkey and a.p = 'journal'
-left join field b on b.k = pubkey and b.p = 'month'
-left join field c on c.k = pubkey and c.p = 'volume'
-left join field d on d.k = pubkey and d.p = 'number'
-where pub.pubp = 'article';
+select distinct pubid, a.v as journal, b.v as month, c.v as volume, d.v as number from publication join pub on pub.pubk = publication.pubkey 
+left join field a on a.k = publication.pubkey 
+left join field b on b.k = publication.pubkey 
+left join field c on c.k = publication.pubkey 
+left join field d on d.k = publication.pubkey 
+where pub.pubp = 'article' and a.p = 'journal' and b.p = 'month' and c.p = 'volume' and d.p = 'number';
 
+Do
+$do$
+begin
+raise notice 'done creating article3';
 insert into article (pubid, journal, month, volume, number)
-(select pubid, publisher, isbn from book3);
+(select pubid, journal, month, volume, number from article3);
+raise notice 'inserted into article';
 
--- remove duplicate pubid
-delete from book where exists(
-	select * from book where pubid in(
-select pubid from book
-group by pubid
-having count(pubid) > 1));
+alter table article
+add constraint article_unique_pubid unique(pubid);
 
-alter table book
+alter table article
 add primary key (pubid);
+end;
+$do$;
+*/
+
+
+
 
 
 
