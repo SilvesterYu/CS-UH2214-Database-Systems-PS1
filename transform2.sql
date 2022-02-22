@@ -110,8 +110,8 @@ left join merged c on a.k = c.k and c.p = 'year');
 DO
 $do$
 begin
-raise notice 'done populating publication'
-end
+	raise notice 'done populating publication';
+end;
 $do$;
 
 ----- delete duplicate pubkey and keep last
