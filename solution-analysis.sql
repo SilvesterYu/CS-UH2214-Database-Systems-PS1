@@ -75,6 +75,7 @@ order by decade;
 */
 
 -- query 5
+/*
 drop table if exists collab;
 create table collab as
 select distinct name, y.id from author, authored x, authored y
@@ -84,8 +85,27 @@ where author.id = x.id and x.pubid = y.pubid and y.id != x.id
 select name from collab
 group by name order by count(*) desc limit 20;
 -- answer 5: "Yang Liu", "Wei Wang", "Wei Zhang", "Yu Zhang", "Lei Zhang", "Wei Li", "Lei Wang", "Wei Liu", "Yang Li", "Xin Li", "Xin Wang", "Wei Chen", "Li Zhang", "Jing Wang", "Yan Li", "Yi Zhang", "Jing Li", "Yan Wang", "Yan Zhang", "Jun Wang"
-
-
+*/
 
 -- query 6
+/*
+drop table if exists decade_author;
+create table decade_author as
+select distinct id, pubkey, cast(year/10 as varchar(3)) as decade
+from authored, publication
+where authored.pubid = publication.pubid;
+
+SELECT decade, name, cnt
+FROM (   SELECT concat(decade, '0-', decade, '9') as decade, id, cnt,
+          RANK() OVER (PARTITION BY decade 
+                       ORDER BY cnt DESC) AS rn
+   FROM (
+      SELECT decade, id, COUNT(id) AS cnt
+      FROM decade_author
+      GROUP BY decade, id ) t
+) s, author
+WHERE s.rn = 1 and s.id = author.id
+-- answer 6: "1930-1939"	"Willard Van Orman Quine"	7, "1940-1949"	"Willard Van Orman Quine"	10, "1950-1959"	"Hao Wang 0001"	14, "1960-1969"	"Henry C. Thacher Jr."	41, "1970-1979"	"Jeffrey D. Ullman"	85, "1970-1979"	"Grzegorz Rozenberg"	85, "1980-1989"	"Azriel Rosenfeld"	173, "1990-1999"	"Toshio Fukuda"	268, "2000-2009"	"Wen Gao 0001"	566, "2010-2019"	"H. Vincent Poor"	1215, "2020-2029"	"Yang Liu"	611
+*/
+
 
