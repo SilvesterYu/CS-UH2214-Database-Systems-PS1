@@ -84,27 +84,18 @@ $do$;
 
 -------------------------run this after merged table has index column-------------------------
 --------------------- delete homepage entries before populating publication-----------
-/*
+
 delete from merged where
 merged.k in (select distinct k from merged where merged.v = 'Home Page');
 
-
-------------------------------- populate publication3 table --------------------------
-drop if exists table publication3;
-
-create table publication3 as
-select distinct a.k as pubkey, b.v as title, c.v as year, a.pubp as pubtype from merged a
-left join merged b on a.k = b.k and b.p = 'title'
-left join merged c on a.k = c.k and c.p = 'year';
-
 --------------------------------- populate publication table -----------------------
 
-drop table if exists publication;
+drop table if exists publication cascade;
 create table Publication(
 	pubid serial primary key,
 	pubkey text,
 	title text,
-	year text
+	year integer
 	);
 	
 delete from publication;
@@ -112,9 +103,18 @@ alter table publication
 drop constraint if exists unique_pubkey;
 ALTER sequence publication_pubid_seq RESTART WITH 1;
 insert into publication (pubkey, title, year)
-(select pubkey, title, year from publication3);
+(select distinct a.k as pubkey, b.v as title, cast(c.v as integer) as year from merged a
+left join merged b on a.k = b.k and b.p = 'title'
+left join merged c on a.k = c.k and c.p = 'year');
 
------ delete cuplicate pubkey and keep last
+DO
+$do$
+begin
+raise notice 'done populating publication'
+end
+$do$;
+
+----- delete duplicate pubkey and keep last
 delete from publication where pubid in(
 select pubid from (select * from publication where pubkey in
 				  (select pubkey from publication
@@ -124,8 +124,6 @@ having count(pubkey) > 1)
 
 alter table publication
 add constraint unique_pubkey unique (pubkey);
-*/
-
 
 ------------------------------- run this after having publication table--------------------------
 ------------------------------------- populate book table ---------------------------------------
@@ -207,9 +205,6 @@ where pub.pubp = 'incollection') ;
 
 alter table incollection
 add foreign key (pubid) references publication(pubid);
-
-
-
 
 ------------------------------------------ populate authored table ------------------------------------------
 delete from authored;
