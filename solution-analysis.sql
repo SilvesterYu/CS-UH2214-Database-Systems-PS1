@@ -24,11 +24,13 @@ limit 20;
 -- answer 2: "M. Frans Kaashoek" "Nickolai Zeldovich""Roger M. Needham""Henry M. Levy""Andrea C. Arpaci-Dusseau""Remzi H. Arpaci-Dusseau""Gerald J. Popek""Gregory R. Ganger""Thomas E. Anderson""Brian N. Bershad""Yuanyuan Zhou 0001""David Mazières""Barbara Liskov""Emmett Witchel""David K. Gifford""Matei Zaharia""Mahadev Satyanarayanan""Ion Stoica""David R. Cheriton""Michael D. Schroeder"
 */
 
+/*
 select author.name from author, authored, inproceedings
 where author.id = authored.id and inproceedings.pubid = authored.pubid and inproceedings.booktitle = 'CHI'
 group by author.id order by count(authored.pubid) desc
 limit 20;
 -- answer 2: "Patrick Olivier""Carl Gutwin""Tovi Grossman""Scott E. Hudson""Steve Benford""Ravin Balakrishnan""Patrick Baudisch""John Vines""Kasper Hornbæk""George W. Fitzmaurice""Antti Oulasvirta""James A. Landay""Jacob O. Wobbrock""Shumin Zhai""Peter C. Wright""Stephen A. Brewster""Robert E. Kraut""Chris Harrison 0001""Jennifer Mankoff""Regan L. Mandryk"
+*/
 
 --- query 3
 /*
