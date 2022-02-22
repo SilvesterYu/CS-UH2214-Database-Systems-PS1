@@ -58,8 +58,34 @@ where author.id = authored.id and inproceedings.pubid = authored.pubid and inpro
 */
 
 -- query 4
+/*
+drop table if exists year_count;
+create table year_count as
+select year, count(*) from publication group by year;
+
+drop table if exists decade_count;
+create table decade_count as
+select cast(year/10 as varchar(3)) as decade, sum(count) as count from year_count
+where year is not null group by decade;
+
+select concat(decade, '0-', decade, '9') as decade, count
+from decade_count
+order by decade;
+-- answer 4: "1930-1939"---56, "1940-1949"---192, "1950-1959"---2617, "1960-1969"---13402, "1970-1979"---47308, "1980-1989"---139092, "1990-1999"---463397, "2000-2009"---1444347, "2010-2019"---3015620, "2020-2029"---861926
+*/
+
+-- query 5
+drop table if exists collab;
+create table collab as
+select distinct name, y.id from author, authored x, authored y
+where author.id = x.id and x.pubid = y.pubid and y.id != x.id
+;
+
+select name from collab
+group by name order by count(*) desc limit 20;
+-- answer 5: "Yang Liu", "Wei Wang", "Wei Zhang", "Yu Zhang", "Lei Zhang", "Wei Li", "Lei Wang", "Wei Liu", "Yang Li", "Xin Li", "Xin Wang", "Wei Chen", "Li Zhang", "Jing Wang", "Yan Li", "Yi Zhang", "Jing Li", "Yan Wang", "Yan Zhang", "Jun Wang"
 
 
 
-
+-- query 6
 
