@@ -16,4 +16,4 @@ create table conference_ranking(
 );
 
 -- Question 2:
--- select * from publication where pubkey like 'conf/acml%'
+select * from publication where pubkey like 'journals/talg%'
