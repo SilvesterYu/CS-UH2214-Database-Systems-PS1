@@ -11,7 +11,7 @@ import pandas as pd #import pandas library to help us store the data
 import numpy as np
 
 ####################### a simple crawler ##############################
-def crawler_func(start_page, end_page, base_url):
+def crawler_func(start_page, end_page, base_url, linkloc):
     data = []
     
     for i in range(start_page, end_page+1):
@@ -28,7 +28,7 @@ def crawler_func(start_page, end_page, base_url):
             clean_row = cell.text.strip('\n').strip()
             line.append(clean_row)
           if row.find("a") != None:
-            line[4] = row.find("a")["href"]
+            line[linkloc] = row.find("a")["href"]
           data.append(line)
           #print(line)
     np_data = np.array(data)
@@ -36,24 +36,26 @@ def crawler_func(start_page, end_page, base_url):
     return df
 
 ########################### for conference ########################
-base_url1 = "http://portal.core.edu.au/conf-ranks/?search=&by=all&source=all&sort=atitle&page="
+base_url1 = "http://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2021&sort=atitle&page="
 start_page1 = 1
-end_page1 = 45
+end_page1 = 20
+linkloc1 = 4
 
-df1 = crawler_func(start_page1, end_page1, base_url1)
+df1 = crawler_func(start_page1, end_page1, base_url1, linkloc1)
 
 df1.columns = ['title', 'acronym', 'source', 'rank', 'dblp', 'hasdata', 'primaryfor', 'comments', 'averagerating']
-df1 = df1[['title', 'acronym', 'source', 'rank', 'dblp']]    
+df1 = df1[['title', 'rank', 'dblp']]    
 
 ########################## for journal ########################
-base_url2 = "http://portal.core.edu.au/conf-ranks/?search=&by=all&source=all&sort=atitle&page="
+base_url2 = "http://portal.core.edu.au/jnl-ranks/?search=&by=all&source=CORE2020&sort=atitle&page="
 start_page2 = 1
-end_page2 = 18
+end_page2 = 13
+linkloc2 = 3
 
-df2 = crawler_func(start_page2, end_page2, base_url2)
+df2 = crawler_func(start_page2, end_page2, base_url2, linkloc2)
 
-df2.columns = ['title', 'acronym', 'source', 'rank', 'dblp', 'hasdata', 'primaryfor', 'comments', 'averagerating']
-df2 = df2[['title', 'acronym', 'source', 'rank', 'dblp']]  
+df2.columns = ['title', 'source', 'rank', 'dblp', 'hasdata', 'for', 'comments', 'averagerating']
+df2 = df2[['title', 'rank', 'dblp']]  
     
 
     
