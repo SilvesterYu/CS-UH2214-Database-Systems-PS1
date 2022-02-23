@@ -81,7 +81,7 @@ $do$;
 */
 
 
-
+/*
 -------------------------run this after merged table has index column-------------------------
 --------------------- delete homepage entries before populating publication-----------
 
@@ -107,12 +107,7 @@ insert into publication (pubkey, title, year)
 left join merged b on a.k = b.k and b.p = 'title'
 left join merged c on a.k = c.k and c.p = 'year');
 
-DO
-$do$
-begin
-	raise notice 'done populating publication';
-end;
-$do$;
+
 
 ----- delete duplicate pubkey and keep last
 delete from publication where pubid in(
@@ -212,7 +207,12 @@ insert into authored
 select distinct id, pubid from
 author, publication, field
 where author.name = field.v and field.k = publication.pubkey;
+*/
 
+alter table authored
+add foreign key (id) references author(id);
+alter table authored
+add foreign key (pubid) references publication(pubid);
 ------------------------------------------ remove all temporary tables ---------------------------------------
 /*
 drop table if exists merged;
