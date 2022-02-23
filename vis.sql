@@ -39,3 +39,7 @@ group by pubcount;
 COPY (select * from vis1) TO 'D:/1_Database_Systems/DatabasePS1/vis1.csv' DELIMITER ',' CSV HEADER;
 COPY (select * from vis2) TO 'D:/1_Database_Systems/DatabasePS1/vis2.csv' DELIMITER ',' CSV HEADER;
 
+drop table if exists a_with_pub;
+drop table if exists author_pub;
+drop table if exists author_collab;
+drop table if exists a_with_collab;
