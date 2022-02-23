@@ -1,4 +1,4 @@
-/*
+
 ---------------------------- create a merged table with all raw data -----------------------
 DO
 $do$
@@ -30,9 +30,7 @@ $do$;
 
 create index if not exists merged_index
 	on merged(id, k, p, v, pubp);
-*/
 
-/*	
 ----------------------------------populate author table--------------------------------------
 -- create table with all authors who has a homepage
 drop table if exists awithhomepage;
@@ -78,10 +76,7 @@ begin
 	end loop;
 end
 $do$;
-*/
 
-
-/*
 -------------------------run this after merged table has index column-------------------------
 --------------------- delete homepage entries before populating publication-----------
 
@@ -214,11 +209,11 @@ add foreign key (id) references author(id);
 alter table authored
 add foreign key (pubid) references publication(pubid);
 ------------------------------------------ remove all temporary tables ---------------------------------------
-/*
+
 drop table if exists merged;
 drop table ir exists awithhomepage;
 drop table if exists awithouthomepage;
-*/
+
 
 
 
