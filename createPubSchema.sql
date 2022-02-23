@@ -18,26 +18,14 @@ create table Publication(
 	title text,
 	year text
 	);
-/*	
-create table Authored(
-	id integer,
-	pubid integer,
-	constraint author_pub
-	primary key (id, pubid),
-	constraint pk_author
-	foreign key (id) references Author(id),
-	constraint pk_pubid
-	foreign key (pubid) references Publication(pubid)
-);
-*/
-
+	
 create table Authored(
 	id integer,
 	pubid integer
 );
 
 create table Article(
-	pubid integer not null primary key,
+	pubid integer not null,
 	journal text,
 	month text,
 	volume text,
@@ -51,14 +39,14 @@ create table Book(
 );
 
 create table Incollection(
-	pubkey text not null primary key,
+	pubkey text not null,
 	booktitle text,
 	publisher text,
 	isbn text
 );
 
 create table Inproceedings(
-	pubkey text not null primary key,
+	pubkey text not null,
 	booktitle text,
 	editor text
 );
