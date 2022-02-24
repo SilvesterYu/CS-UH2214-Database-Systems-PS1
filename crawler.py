@@ -44,7 +44,13 @@ linkloc1 = 4
 df1 = crawler_func(start_page1, end_page1, base_url1, linkloc1)
 
 df1.columns = ['title', 'acronym', 'source', 'rank', 'dblp', 'hasdata', 'primaryfor', 'comments', 'averagerating']
-df1 = df1[['title', 'rank', 'dblp']]    
+df1 = df1[['title', 'rank', 'dblp']]      
+df1["ckey"] = df1['dblp'].apply(lambda x: "/".join(x.strip('/').split("/")[-2:]))
+df1 = df1[['ckey', 'title', 'rank', 'dblp']]
+df1 = df1[df1.ckey != 'none']
+# make sure ckey is unique
+df1 = df1.drop_duplicates(subset = 'ckey', keep = 'first')
+df1.to_csv("conference_ranking.csv", header = False, index = False)
 
 ########################## for journal ########################
 base_url2 = "http://portal.core.edu.au/jnl-ranks/?search=&by=all&source=CORE2020&sort=atitle&page="
@@ -55,7 +61,12 @@ linkloc2 = 3
 df2 = crawler_func(start_page2, end_page2, base_url2, linkloc2)
 
 df2.columns = ['title', 'source', 'rank', 'dblp', 'hasdata', 'for', 'comments', 'averagerating']
-df2 = df2[['title', 'rank', 'dblp']]  
-    
+df2 = df2[['title', 'rank', 'dblp']]
+df2["jkey"] = df2['dblp'].apply(lambda x: "/".join(x.strip('/').split("/")[-2:]))
+df2 = df2[['jkey', 'title', 'rank', 'dblp']]
+df2 = df2[df2.jkey != 'none']
+# make sure jkey is unique
+df2 = df2.drop_duplicates(subset = 'jkey', keep = 'first')
+df2.to_csv("journal_ranking.csv", header = False, index = False)
 
     
