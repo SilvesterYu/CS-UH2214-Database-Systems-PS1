@@ -89,5 +89,26 @@ select * from top_distribution;
 -- drop table if exists top_pubkey_rank
 
 
+-- Extra Credit Question 5:
+-- (I'm using an external script to create table :( sad...) 
+-- How to run:
+-- (1) comment out section 2 and run section 1
+-- (2) run extra_credit_google_scholar.py
+-- (3) change absolute path in section 2
+-- (4) comment out section 1 and run section 2
 
+-- (section 1) 
+drop table if exists extra_credit_links;
+create table extra_credit_links as
+select * from author where homepage like 'https://scholar.google.com/citations?user=%' order by random() limit 100;
+COPY (select * from extra_credit_links) TO 'D:/1_Database_Systems/DatabasePS1/extra_credit_links.csv' DELIMITER ',' CSV HEADER;
+
+-- (section 2) 
+-- !!!! Change absolute path !!!!!
+-- the csv is named "google_scholar.csv", produced by extra_credit_scraper.py file
+COPY google_scholar
+FROM 'D:/1_Database_systems/DatabasePS1/google_scholar.csv'
+DELIMITER ',' CSV;
+-- to see what's in the table
+select * from google_sholar;
 
