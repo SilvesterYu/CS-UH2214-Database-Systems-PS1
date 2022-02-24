@@ -9,7 +9,7 @@ select fp from
 (select distinct field.p as fp, pub.p as pp from field, pub where field.k = pub.k) as temp1
 group by fp
 having count(*) >= (select count(distinct p) from pub as num);
--- "author", "ee", "note", "title", "year"
+-- "author", "ee", "note", "title", "year" 
 
 -- Question 3:
 create index pub_idx on pub (k, p);
