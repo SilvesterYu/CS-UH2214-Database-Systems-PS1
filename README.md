@@ -1,10 +1,29 @@
 # DatabasePS1
+------------------- Explanation of code and tips on how to run --------------------
+* the .csv files in this folder are just for easier reference.
+
+### 3 Transformation
+
+1. I'm using intermediate tables:
+    (1) merged: joining the publication types with what's alreay in field table
+    (2) a_with_homepage: authors with homepage, for easier update of author table
+    (3) a_without_homepage: authors without homepage, for easier update of author dable
+2. I drop them all at the end of the sql script
 
 ### 4.2 Data Integration
 
-1. First run the crawler.py, it will create 2 csv files 'journal_ranking.csv' and 'conference_ranking.csv' with conference keys, names, and rankings.
+#### Question 4.2.2
+1. First run crawler.py, it will create 2 csv files 'journal_ranking.csv' and 'conference_ranking.csv' with conference keys, names, and rankings.
 2. To successfully load the data into PostgreSQL, make sure to change the [absolute paths] in 'integration.sql' (under '-- Question 2:') to the paths of the two csv's above. Then run 'integration.sql'.
-3. The distribution table for question 3 is distribution3, for question 4 is distribution4.
+
+#### Question 4.2.5 Extra Credit
+I'm using external python script sadly...
+How to run:
+0. navigate to the bottom of integration.sql, to where -- Question 5 is
+1. comment out section 2 and run section 1
+2. run extra_credit_google_scholar.py
+3. change absolute path in section 2
+4. comment out section 1 and run section 2
 
 ### 4.3 Data Visualization
 
