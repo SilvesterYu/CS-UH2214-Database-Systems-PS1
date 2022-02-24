@@ -1,0 +1,806 @@
+conf/acml,Asian Conference on Machine Learning,Unranked,https://dblp.uni-trier.de/db/conf/acml
+conf/ant,"International Conference on Ambient Systems, Networks and Technologies",Unranked,https://dblp.uni-trier.de/db/conf/ant
+conf/hcomp,AAAI Conference on Human Computation and Crowdsourcing,B,https://dblp.uni-trier.de/db/conf/hcomp
+conf/sera,"ACIS Conference on Software Engineering Research, Management and Applications",C,https://dblp.uni-trier.de/db/conf/sera
+conf/sigcomm,"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",A*,https://dblp.uni-trier.de/db/conf/sigcomm
+conf/ccs,ACM Conference on Computer and Communications Security,A*,https://dblp.uni-trier.de/db/conf/ccs
+conf/cscw,ACM Conference on Computer Supported Cooperative Work,A,https://dblp.uni-trier.de/db/conf/cscw
+conf/sigecom,ACM Conference on Economics and Computation,A*,https://dblp.uni-trier.de/db/conf/sigecom
+conf/sensys,ACM Conference on Embedded Networked Sensor Systems,A*,https://dblp.uni-trier.de/db/conf/sensys
+conf/emsoft,ACM Conference on Embedded Software,Journal published,https://dblp.uni-trier.de/db/conf/emsoft
+conf/oopsla,ACM Conference on Object Oriented Programming Systems Languages and Applications,A,https://dblp.uni-trier.de/db/conf/oopsla
+conf/sigite,ACM Information Technology Education,National: USA,https://dblp.uni-trier.de/db/conf/sigite
+conf/gis,ACM International Conference on Advances in Geographic Information Systems,A,https://dblp.uni-trier.de/db/conf/gis
+conf/conext,ACM International Conference on Emerging Networking Experiments and Technologies,A,https://dblp.uni-trier.de/db/conf/conext
+conf/cikm,ACM International Conference on Information and Knowledge Management,A,https://dblp.uni-trier.de/db/conf/cikm
+conf/tabletop,ACM International Conference on Interactive Surfaces and Spaces (was International Workshop on Horizontal Interactive Human-Computer Systems: Tabletop),Journal Published,https://dblp.uni-trier.de/db/conf/tabletop
+conf/kdd,ACM International Conference on Knowledge Discovery and Data Mining,A*,https://dblp.uni-trier.de/db/conf/kdd
+conf/mobicom,ACM International Conference on Mobile Computing and Networking,A*,https://dblp.uni-trier.de/db/conf/mobicom
+conf/recsys,ACM International Conference on Recommender Systems,A,https://dblp.uni-trier.de/db/conf/recsys
+conf/sigir,ACM International Conference on Research and Development in Information Retrieval,A*,https://dblp.uni-trier.de/db/conf/sigir
+conf/ics,ACM International Conference on Supercomputing,A,https://dblp.uni-trier.de/db/conf/ics
+conf/wsdm,ACM International Conference on Web Search and Data Mining,A*,https://dblp.uni-trier.de/db/conf/wsdm
+conf/huc,ACM International Joint Conference on Pervasive and Ubiquitous Computing (PERVASIVE and UbiComp combined from 2013),journal published,https://dblp.uni-trier.de/db/conf/huc
+conf/isca,ACM International Symposium on Computer Architecture,A*,https://dblp.uni-trier.de/db/conf/isca
+conf/hpdc,ACM International Symposium on High Performance Distributed Computing,A,https://dblp.uni-trier.de/db/conf/hpdc
+conf/iwcmc,ACM International Wireless Communications and Mobile Computing Conference,B,https://dblp.uni-trier.de/db/conf/iwcmc
+conf/mm,ACM Multimedia,A*,https://dblp.uni-trier.de/db/conf/mm
+conf/siggraph,ACM SIG International Conference on Computer Graphics and Interactive Techniques,A*,https://dblp.uni-trier.de/db/conf/siggraph
+conf/sca,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,B,https://dblp.uni-trier.de/db/conf/sca
+conf/mobisys,"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",B,https://dblp.uni-trier.de/db/conf/mobisys
+conf/pods,ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems,A*,https://dblp.uni-trier.de/db/conf/pods
+conf/sosp,ACM SIGOPS Symposium on Operating Systems Principles,A*,https://dblp.uni-trier.de/db/conf/sosp
+conf/lctrts,"ACM SIGPLAN Conference on Languages, Tools, and Compilers for Embedded Systems",B,https://dblp.uni-trier.de/db/conf/lctrts
+conf/pepm,ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,C,https://dblp.uni-trier.de/db/conf/pepm
+conf/pads,ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (was Parallel and Distributed Simulation),B,https://dblp.uni-trier.de/db/conf/pads
+conf/siguccs,ACM SIGUCCS Conference on User Services,National: USA,https://dblp.uni-trier.de/db/conf/siguccs
+conf/sigcse,ACM Special Interest Group on Computer Science Education Conference,A,https://dblp.uni-trier.de/db/conf/sigcse
+conf/sigmod,ACM Special Interest Group on Management of Data Conference,A*,https://dblp.uni-trier.de/db/conf/sigmod
+conf/sacmat,"ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)",C,https://dblp.uni-trier.de/db/conf/sacmat
+conf/sac,ACM Symposium on Applied Computing,B,https://dblp.uni-trier.de/db/conf/sac
+conf/doceng,ACM Symposium on Document Engineering,B,https://dblp.uni-trier.de/db/conf/doceng
+conf/mobihoc,ACM Symposium on Mobile Ad Hoc Networking and Computing,A,https://dblp.uni-trier.de/db/conf/mobihoc
+conf/podc,ACM Symposium on Principles of Distributed Computing,A*,https://dblp.uni-trier.de/db/conf/podc
+conf/stoc,ACM Symposium on Theory of Computing,A*,https://dblp.uni-trier.de/db/conf/stoc
+conf/uist,ACM Symposium on User Interface Software and Technology,A*,https://dblp.uni-trier.de/db/conf/uist
+conf/vrst,ACM Virtual Reality Software and Technology,A,https://dblp.uni-trier.de/db/conf/vrst
+conf/hotnets,ACM Workshop on Hot Topics in Networks,National: USA,https://dblp.uni-trier.de/db/conf/hotnets
+conf/popl,ACM-SIGACT Symposium on Principles of Programming Languages,A*,https://dblp.uni-trier.de/db/conf/popl
+conf/pldi,ACM-SIGPLAN Conference on Programming Language Design and Implementation,A*,https://dblp.uni-trier.de/db/conf/pldi
+conf/si3d,ACM-SIGRAPH Interactive 3D Graphics and Games,B,https://dblp.uni-trier.de/db/conf/si3d
+conf/icdsc,ACM/IEEE International Conference on Distributed Smart Cameras,B,https://dblp.uni-trier.de/db/conf/icdsc
+conf/mswim,"ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",A,https://dblp.uni-trier.de/db/conf/mswim
+conf/middleware,ACM/IFIP/USENIX International Middleware Conference,A,https://dblp.uni-trier.de/db/conf/middleware
+conf/soda,ACM/SIAM Symposium on Discrete Algorithms,A*,https://dblp.uni-trier.de/db/conf/soda
+conf/wosp,ACM/SPEC International Conference on Performance Engineering,B,https://dblp.org/db/conf/wosp
+conf/aiccsa,ACS/IEEE International Conference on Computer Systems and Applications,C,https://dblp.uni-trier.de/db/conf/aiccsa
+conf/acivs,Advanced Concepts for Intelligent Vision Systems,B,https://dblp.uni-trier.de/db/conf/acivs
+conf/avi,Advanced Visual Interfaces,B,https://dblp.uni-trier.de/db/conf/avi
+conf/crypto,Advances in Cryptology,A*,https://dblp.uni-trier.de/db/conf/crypto
+conf/aiml,Advances in Modal Logic,B,https://dblp.uni-trier.de/db/conf/aiml
+conf/nips,Advances in Neural Information Processing Systems (was NIPS),A*,https://dblp.uni-trier.de/db/conf/nips
+conf/alt,Algorithmic Learning Theory,B,https://dblp.uni-trier.de/db/conf/alt
+conf/wads,Algorithms and Data Structures Symposium (was Workshop on Algorithms and Data Structures),B,https://dblp.uni-trier.de/db/conf/wads
+conf/amia,American Medical Informatics Annual Fall Symposium,National: USA,https://dblp.uni-trier.de/db/conf/amia
+conf/acsac,Annual Computer Security Applications Conference,National: usa,https://dblp.uni-trier.de/db/conf/acsac
+conf/cogsci,Annual Conference of the Cognitive Science Society,A,https://dblp.uni-trier.de/db/conf/cogsci
+conf/csl,Annual Conference on Computer Science Logic,B,https://dblp.uni-trier.de/db/conf/csl
+conf/iticse,Annual Conference on Innovation and Technology in Computer Science Education,A,https://dblp.uni-trier.de/db/conf/iticse
+conf/pst,"Annual Conference on Privacy, Security and Trust",C,https://dblp.uni-trier.de/db/conf/pst
+conf/sigdial,Annual Meeting of the Special Interest Group on Discourse and Dialog,B,https://dblp.uni-trier.de/db/conf/sigdial
+conf/acsd,Application of Concurrency to System Design,B,https://dblp.uni-trier.de/db/conf/acsd
+conf/nldb,Applications of Natural Language to Data Bases,C,https://dblp.uni-trier.de/db/conf/nldb
+conf/asplos,Architectural Support for Programming Languages and Operating Systems,A*,https://dblp.uni-trier.de/db/conf/asplos
+conf/ifip12,Artificial Intelligence Applications and Innovations,C,https://dblp.org/db/conf/ifip12
+conf/aime,Artificial Intelligence in Medicine in Europe,B,https://dblp.uni-trier.de/db/conf/aime
+conf/artsit,"ArtsIT, Interactivity & Game Creation (was International Conference on Arts and Technology)",C,https://dblp.uni-trier.de/db/conf/artsit
+conf/aspdac,Asia and South Pacific Design Automation Conference,C,https://dblp.uni-trier.de/db/conf/aspdac
+conf/asiaccs,"Asia Conference on Information, Computer and Communications Security",A,https://dblp.uni-trier.de/db/conf/asiaccs
+conf/airs,Asia Information Retrieval Symposium,C,https://dblp.uni-trier.de/db/conf/airs
+conf/apcc,Asia Pacific Conference on Communications,C,https://dblp.uni-trier.de/db/conf/apcc
+conf/apbc,Asia-Pacific Bioinformatics Conference,B,https://dblp.uni-trier.de/db/conf/apbc
+conf/seal,Asia-Pacific Conference on Simulated Evolution and Learning,B,https://dblp.uni-trier.de/db/conf/seal
+conf/apnoms,Asia-Pacific Network Operations and Management Symposium,C,https://dblp.uni-trier.de/db/conf/apnoms
+conf/apsec,Asia-Pacific Software Engineering Conference,B,https://dblp.uni-trier.de/db/conf/apsec
+conf/accv,Asian Conference on Computer Vision,B,https://dblp.uni-trier.de/db/conf/accv
+conf/aciids,Asian Conference on Intelligent Information and Database Systems,B,https://dblp.uni-trier.de/db/conf/aciids
+conf/aplas,ASIAN Symposium on Programming Languages and Systems,B,https://dblp.uni-trier.de/db/conf/aplas
+conf/acssc,"Asilomar Conference on Signals, Systems and Computing",National: USA,https://dblp.uni-trier.de/db/conf/acssc
+conf/acl,Association of Computational Linguistics,A*,https://dblp.uni-trier.de/db/conf/acl
+conf/ace,Australasian Computing Education Conference (ACE),Australasian B,https://dblp.uni-trier.de/db/conf/ace
+conf/acisp,Australasian Conference on Information Security and Privacy,Australasian B,https://dblp.uni-trier.de/db/conf/acisp
+conf/adc,Australasian Database Conference,Australasian B,https://dblp.uni-trier.de/db/conf/adc
+conf/adcs,Australasian Document Computing Symposium,Australasian B,https://dblp.uni-trier.de/db/conf/adcs
+ausai/index.html,Australasian Joint Conference on Artificial Intelligence,Australasian B,https://dblp.uni-trier.de/db/conf/ausai/index.html
+conf/acl-alta,Australasian Language Technology Workshop,Australasian B,https://dblp.uni-trier.de/db/conf/acl-alta
+conf/ozchi,Australian Computer Human Interaction Conference,Australasian B,https://dblp.uni-trier.de/db/conf/ozchi
+conf/acalci,Australian Conference on Artificial Life and Computational Intelligence,Australasian B,https://dblp.uni-trier.de/db/conf/acalci
+conf/ausdm,Australian Data Mining Conference,Australasian B,https://dblp.uni-trier.de/db/conf/ausdm
+conf/aswec,Australian Software Engineering Conference,Australasian B,https://dblp.uni-trier.de/db/conf/aswec
+conf/kbse,Automated Software Engineering Conference,A*,https://dblp.uni-trier.de/db/conf/kbse
+conf/ast,Automation of Software Test,C,https://dblp.uni-trier.de/db/conf/ast
+conf/bsn,Body Sensor Networks,C,https://dblp.uni-trier.de/db/conf/bsn
+conf/bcshci,British Computer Society Conference on Human-Computer Interaction,National,https://dblp.uni-trier.de/db/conf/bcshci
+conf/chiplay,CHI PLAY: The Annual Symposium on Computer-Human Interaction in Play,Journal Published,https://dblp.org/db/conf/chiplay
+conf/cpm,Combinatorial Pattern Matching,B,https://dblp.uni-trier.de/db/conf/cpm
+conf/cie,Computability in Europe: Logic and Theory of Algorithms,C,https://dblp.uni-trier.de/db/conf/cie
+conf/cisis-spain,Computational Intelligence in Security for Information Systems,National: Spain,https://dblp.org/db/conf/cisis-spain
+conf/cav,Computer Aided Verification,A*,https://dblp.uni-trier.de/db/conf/cav
+conf/casc,Computer Algebra in Scientific Computing,B,https://dblp.org/db/conf/casc
+conf/cgi,Computer Graphics International,B,https://dblp.uni-trier.de/db/conf/cgi
+conf/cscl,Computer Supported Collaborative Learning,B,https://dblp.uni-trier.de/db/conf/cscl
+conf/isaga,Conference for the International Simulation and Gaming Association,C,https://dblp.uni-trier.de/db/conf/isaga
+conf/uai,Conference in Uncertainty in Artificial Intelligence,A,https://dblp.uni-trier.de/db/conf/uai
+conf/amta,Conference of the Association for Machine Translation in the Americas,B,https://dblp.uni-trier.de/db/conf/amta
+conf/eamt,Conference of the European Association for Machine Translation,B,https://dblp.uni-trier.de/db/conf/eamt
+conf/eusflat,Conference of the European Society for Fuzzy Logic and Technologies,C,https://dblp.org/db/conf/eusflat
+conf/pacling,Conference of the Pacific Association for Computational Linguistics,B,https://dblp.uni-trier.de/db/conf/pacling
+conf/xpu,Conference on Agile Software Development,B,https://dblp.uni-trier.de/db/conf/xpu
+conf/calco,Conference on Algebra and Coalgebra in Computer Science,B,https://dblp.org/db/conf/calco
+conf/aaim,Conference on Algorithmic Aspects in Information and Management,C,https://dblp.uni-trier.de/db/conf/aaim
+conf/cocoa,Conference on Combinatorial Optimization and Applications,B,https://dblp.uni-trier.de/db/conf/cocoa
+conf/conll,Conference on Computational Natural Language Learning,A,https://dblp.uni-trier.de/db/conf/conll
+conf/fedcsis,CONFERENCE ON COMPUTER SCIENCE AND INTELLIGENCE SYSTEMS,B,https://dblp.org/db/conf/fedcsis
+conf/fast,Conference on File and Storage Technologies,A,https://dblp.uni-trier.de/db/conf/fast
+conf/fun,Conference on Fun with Algorithms,National: Italy,https://dblp.uni-trier.de/db/conf/fun
+conf/cig,Conference on Games (was Computational Intelligence and Games CIG),C,https://dblp.uni-trier.de/db/conf/cig
+conf/ciss,Conference on Information Sciences and Systems,National: USA,https://dblp.uni-trier.de/db/conf/ciss
+conf/icin,"Conference on Innovation in Clouds, Internet and Networks",National: France,https://dblp.uni-trier.de/db/conf/icin
+conf/cidr,Conference on Innovative Data Systems Research,A,https://dblp.uni-trier.de/db/conf/cidr
+conf/ipco,Conference on Integer Programming and Combinatorial Optimization,A,https://dblp.uni-trier.de/db/conf/ipco
+conf/mkm,Conference on Intelligent Computer Mathematics,C,https://dblp.org/db/conf/mkm
+conf/itp,"Conference on Interactive Theorem Proving (previously TPHOLs, changed in 2009)",A,https://dblp.uni-trier.de/db/conf/itp
+conf/colt,Conference on Learning Theory,A*,https://dblp.uni-trier.de/db/conf/colt
+conf/scn,Conference on Security and Cryptography for Networks,National: Italy,https://dblp.uni-trier.de/db/conf/scn
+conf/softcom,Conference on Software in Telecommunications and Computer Networks,National: Croatia,https://dblp.uni-trier.de/db/conf/softcom
+conf/tamc,Conference on Theory and Applications of Models of Computation,B,https://dblp.uni-trier.de/db/conf/tamc
+conf/vda,Conference on Visualization and Data Analysis,National: USA,https://dblp.uni-trier.de/db/conf/vda
+conf/cdve,"Cooperative Design, Visualization, and Engineering",C,https://dblp.uni-trier.de/db/conf/cdve
+conf/sofsem,Current Trends in Theory and Practice of Computer Science,B,https://dblp.uni-trier.de/db/conf/sofsem
+conf/dcc,Data Compression Conference,B,https://dblp.uni-trier.de/db/conf/dcc
+conf/dawak,Data Warehousing and Knowledge Discovery,B,https://dblp.uni-trier.de/db/conf/dawak
+conf/dbpl,Database Programming Languages,B,https://dblp.uni-trier.de/db/conf/dbpl
+conf/btw,"Datenbanksysteme für Business, Technologie und Web",National:Germany,https://dblp.org/db/conf/btw
+conf/date,"Design, Automation and Test in Europe Conference",B,https://dblp.uni-trier.de/db/conf/date
+conf/ACMdis,Designing Interactive Systems,A,https://dblp.uni-trier.de/db/conf/ACMdis
+conf/dese,Developments in eSystems Engineering,C,https://dblp.uni-trier.de/db/conf/dese
+conf/dlt,Developments in Language Theory,B,https://dblp.uni-trier.de/db/conf/dlt
+conf/digra,Digital Games Research Conference,C,https://dblp.uni-trier.de/db/conf/digra
+conf/dicta,Digital Image Computing Techniques and Applications,Australasian B,https://dblp.uni-trier.de/db/conf/dicta
+conf/dis,Discovery Science,Unranked,https://dblp.uni-trier.de/db/conf/dis
+conf/dna,DNA Computing and Molecular Programming,B,https://dblp.uni-trier.de/db/conf/dna
+conf/dls,Dynamic Languages Symposium,C,https://dblp.uni-trier.de/db/conf/dls
+conf/edm,Educational Data Mining,B,https://dblp.uni-trier.de/db/conf/edm
+conf/emas,"EMAS (merger of DALT, AOSE and PROMAS)",B,https://dblp.uni-trier.de/db/conf/emas
+conf/emnlp,Empirical Methods in Natural Language Processing,A,https://dblp.uni-trier.de/db/conf/emnlp
+conf/eics,Engineering Interactive Computing Systems,Journal Published,https://dblp.uni-trier.de/db/conf/eics
+conf/ershov,Ershov Conference,National: Russia,https://dblp.uni-trier.de/db/conf/ershov
+conf/eatis,EURO AMERICAN CONFERENCE ON TELEMATICS AND INFORMATION SYSTEMS,C,https://dblp.uni-trier.de/db/conf/eatis
+conf/eurovr,Euro Virtual Reality,C,https://dblp.uni-trier.de/db/conf/eurovr
+conf/egpgv,Eurographics Symposium on Parallel Graphics and Visualization,B,https://dblp.uni-trier.de/db/conf/egpgv
+conf/vissym,Eurographics/IEEE Symposium on Visualization,B,https://dblp.uni-trier.de/db/conf/vissym
+conf/ecrts,Euromicro Conference on Real-Time Systems,A,https://dblp.uni-trier.de/db/conf/ecrts
+conf/euromicro,Euromicro Conference on Software Engineering and Advanced Applications,B,https://dblp.uni-trier.de/db/conf/euromicro
+conf/pdp,"Euromicro International Conference on Parallel, Distributed and Network Based Processing",C,https://dblp.uni-trier.de/db/conf/pdp
+conf/eacl,European Association of Computational Linguistics,A,https://dblp.uni-trier.de/db/conf/eacl
+conf/ami,European Conference on Ambient Intelligence,C,https://dblp.uni-trier.de/db/conf/ami
+conf/ecai,European Conference on Artificial Intelligence,A,https://dblp.uni-trier.de/db/conf/ecai
+conf/ecscw,European Conference on Computer Supported Cooperative Work,B,https://dblp.uni-trier.de/db/conf/ecscw
+conf/eccv,European Conference on Computer Vision,A*,https://dblp.uni-trier.de/db/conf/eccv
+conf/evoW,European Conference on Evolutionary Computation in Combinatorial Optimisation,B,https://dblp.org/db/conf/evoW/
+conf/eurogp,European Conference on Genetic Programming,B,https://dblp.uni-trier.de/db/conf/eurogp
+conf/ecir,European Conference on Information Retrieval,A,https://dblp.uni-trier.de/db/conf/ecir
+conf/ecml,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),A,https://dblp.uni-trier.de/db/conf/ecml
+conf/ecmdafa,European Conference on Modelling Foundations and Applications,NEW,https://dblp.uni-trier.de/db/conf/ecmdafa
+conf/ecoop,European Conference on Object-Oriented Programming,A,https://dblp.uni-trier.de/db/conf/ecoop
+conf/europlop,European Conference on Pattern Languages of Programs,National: Germany,https://dblp.uni-trier.de/db/conf/europlop
+conf/ecsa,European Conference on Software Architecture,A,https://dblp.uni-trier.de/db/conf/ecsa
+conf/ecsqaru,European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty,C,https://dblp.uni-trier.de/db/conf/ecsqaru
+conf/ectel,European Conference on Technology Enhanced Learning,B,https://dblp.uni-trier.de/db/conf/ectel
+conf/edcc,European Dependable Computing Conference,Unranked,https://dblp.uni-trier.de/db/conf/edcc
+conf/pvm,European MPI Users' Group Conference,C,https://dblp.uni-trier.de/db/conf/pvm
+conf/esec,"European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (duplicate was listed as ESEC, removed from DB)",A*,https://dblp.uni-trier.de/db/conf/esec
+conf/eurospi,European SPI,B,https://dblp.uni-trier.de/db/conf/eurospi
+conf/esa,European Symposium on Algorithms,A,https://dblp.uni-trier.de/db/conf/esa
+conf/esann,European Symposium on Artificial Neural Networks,B,https://dblp.uni-trier.de/db/conf/esann
+conf/esop,European Symposium on Programming,A,https://dblp.uni-trier.de/db/conf/esop
+conf/esorics,European Symposium On Research In Computer Security,A,https://dblp.uni-trier.de/db/conf/esorics
+conf/eumas,European Workshop on Multi-Agent Systems,C,https://dblp.uni-trier.de/db/conf/eumas
+conf/ejc,European-Japanese Conference on Information Modelling and Knowledge Bases,C,https://dblp.uni-trier.de/db/conf/ejc
+conf/eurosys,Eurosys Conference,A,https://dblp.uni-trier.de/db/conf/eurosys
+emmsad/index.html,Exploring Modelling Methods in Systems Analysis and Design,C,https://dblp.org/db/conf/emmsad/index.html
+conf/esws,Extended Semantic Web Conference (was European Semantic Web Conference),A,https://dblp.uni-trier.de/db/conf/esws
+conf/edbt,Extending Database Technology,A,https://dblp.uni-trier.de/db/conf/edbt
+conf/etra,Eye Tracking Research and Applications,B,https://dblp.uni-trier.de/db/conf/etra
+conf/fc,Financial Cryptography and Data Security Conference,A,https://dblp.uni-trier.de/db/conf/fc
+conf/fqas,Flexible Query-Answering Systems,C,https://dblp.uni-trier.de/db/conf/fqas
+conf/fmcad,Formal Methods in Computer-Aided Design,B,https://dblp.uni-trier.de/db/conf/fmcad
+conf/fdl,Forum on Specification and Design Languages,C,https://dblp.uni-trier.de/db/conf/fdl
+conf/foga,Foundations of Genetic Algorithms,A,https://dblp.uni-trier.de/db/conf/foga
+conf/fossacs,Foundations of Software Science and Computational Structures,A,https://dblp.uni-trier.de/db/conf/fossacs
+conf/fsttcs,Foundations of Software Technology and Theoretical Computer Science,B,https://dblp.uni-trier.de/db/conf/fsttcs
+conf/fie,Frontiers in Education,C,https://dblp.uni-trier.de/db/conf/fie
+conf/fase,Fundamental Approaches to Software Engineering,B,https://dblp.uni-trier.de/db/conf/fase
+conf/gecco,Genetic and Evolutionary Computations,A,https://dblp.uni-trier.de/db/conf/gecco
+conf/dimva,"GI International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment",C,https://dblp.uni-trier.de/db/conf/dimva
+conf/gd,Graph Drawing,A,https://dblp.uni-trier.de/db/conf/gd
+conf/graphicsinterface,Graphics Interface,B,https://dblp.org/db/conf/graphicsinterface
+conf/haskell,Haskell Workshop,C,https://dblp.uni-trier.de/db/conf/haskell
+conf/hic,Health Informatics Conference,Australasian C,https://dblp.uni-trier.de/db/conf/hic
+conf/hsi,Human System Interaction,C,https://dblp.uni-trier.de/db/conf/hsi
+conf/hai,Human-Agent Interaction,B,https://dblp.uni-trier.de/db/conf/hai
+conf/ciarp,IberoAmerican Congress on Pattern Recognition,C,https://dblp.uni-trier.de/db/conf/ciarp
+conf/icteri,"ICT in Education, Research, and Industrial Applications",National: Ukraine,https://dblp.uni-trier.de/db/conf/icteri
+conf/asru,IEEE Automatic Speech Recognition and Understanding Workshop,C,https://dblp.uni-trier.de/db/conf/asru
+conf/bibe,IEEE Bioinformatics and Bioengineering,C,https://dblp.uni-trier.de/db/conf/bibe
+conf/csfw,IEEE Computer Security Foundations Symposium (was CSFW),A,https://dblp.uni-trier.de/db/conf/csfw
+conf/cogsima,IEEE Conference on Cognitive and Computational Aspects of Situation Management,National:USA,https://dblp.uni-trier.de/db/conf/cogsima
+conf/cvpr,IEEE Conference on Computer Vision and Pattern Recognition,A*,https://dblp.uni-trier.de/db/conf/cvpr
+conf/lcn,IEEE Conference on Local Computer Networks,B,https://dblp.uni-trier.de/db/conf/lcn
+conf/mss,IEEE Conference on Mass Storage Systems and Technologies,National: USA,https://dblp.uni-trier.de/db/conf/mss
+conf/smc,"IEEE Conference on Systems, Man and Cybernetics",B,https://dblp.uni-trier.de/db/conf/smc
+conf/vr,IEEE Conference on Virtual Reality and 3D User Interfaces,A*,https://dblp.uni-trier.de/db/conf/vr
+conf/cec,IEEE Congress on Evolutionary Computation,B,https://dblp.uni-trier.de/db/conf/cec
+conf/services,IEEE Congress on Services,B,https://dblp.uni-trier.de/db/conf/services
+conf/ccnc,IEEE Consumer Communications and Networking Conference,B,https://dblp.uni-trier.de/db/conf/ccnc
+conf/eurosp,IEEE European Symposium on Security and Privacy,NEW,https://dblp.uni-trier.de/db/conf/eurosp
+conf/globecom,IEEE Global Telecommunications Conference,B,https://dblp.uni-trier.de/db/conf/globecom
+conf/iasam,IEEE Industry Applications Society Annual Conference,National: USA,https://dblp.uni-trier.de/db/conf/iasam
+conf/icalt,IEEE International Conference on Advanced Learning Technologies,B,https://dblp.org/db/conf/icalt
+conf/avss,IEEE International Conference on Advanced Video and Signal Based Surveillance,B,https://dblp.uni-trier.de/db/conf/avss
+conf/fgr,IEEE International Conference on Automatic Face and Gesture Recognition,C,https://dblp.uni-trier.de/db/conf/fgr
+conf/icac,IEEE International Conference on Autonomic Computing,B,https://dblp.uni-trier.de/db/conf/icac
+conf/bigdataconf,IEEE International Conference on Big Data,B,https://dblp.org/db/conf/bigdataconf
+conf/IEEEcloud,IEEE International Conference on Cloud Computing,B,https://dblp.uni-trier.de/db/conf/IEEEcloud
+conf/cloudcom,IEEE International Conference on Cloud Computing Technology and Science (International Conference on Cloud Computing pre 2010),C,https://dblp.uni-trier.de/db/conf/cloudcom
+conf/cluster,IEEE International Conference on Cluster Computing,A,https://dblp.uni-trier.de/db/conf/cluster
+conf/IEEEicci,IEEE International Conference on Cognitive Informatics,C,https://dblp.uni-trier.de/db/conf/IEEEicci
+conf/cit,IEEE International Conference on Computer and Information Technology,C,https://dblp.uni-trier.de/db/conf/cit
+conf/infocom,IEEE International Conference on Computer Communications,A*,https://dblp.uni-trier.de/db/conf/infocom
+conf/iccv,IEEE International Conference on Computer Vision,A*,https://dblp.uni-trier.de/db/conf/iccv
+conf/icdm,IEEE International Conference on Data Mining,A*,https://dblp.uni-trier.de/db/conf/icdm
+conf/dsaa,IEEE International Conference on Data Science and Advanced Analytics,A,https://dblp.org/db/conf/dsaa
+conf/dcoss,IEEE International Conference on Distributed Computing in Sensor Systems,B,https://dblp.uni-trier.de/db/conf/dcoss
+conf/icdar,IEEE International Conference on Document Analysis and Recognition,A,https://dblp.uni-trier.de/db/conf/icdar
+conf/eScience,IEEE International Conference on e-Science and Grid Computing,B,https://dblp.uni-trier.de/db/conf/eScience
+conf/healthcom,"IEEE international conference on ehealth networking applications and
+ services (was International Workshop on Enterprise Networking and Computing in Health Care Industry; changed 2006)",C,https://dblp.uni-trier.de/db/conf/healthcom
+conf/iceccs,IEEE International Conference on Engineering of Complex Computer Systems,B,https://dblp.uni-trier.de/db/conf/iceccs
+conf/icfec,IEEE International Conference on Fog and Edge Computing,C,https://dblp.org/db/conf/icfec
+conf/fuzzIEEE,IEEE International Conference on Fuzzy Systems,B,https://dblp.uni-trier.de/db/conf/fuzzIEEE
+conf/icgse,IEEE International Conference on Global Software Engineering,C,https://dblp.uni-trier.de/db/conf/icgse
+conf/hpcc,IEEE International Conference on High Performance Computing and Communications,B,https://dblp.uni-trier.de/db/conf/hpcc
+conf/ieeehpcs,IEEE International Conference on High Performance Computing and Simulation,B,https://dblp.uni-trier.de/db/conf/ieeehpcs
+conf/icip,IEEE International Conference on Image Processing,B,https://dblp.uni-trier.de/db/conf/icip
+conf/icinfa,IEEE International Conference on Information and Automation,National: China,https://dblp.uni-trier.de/db/conf/icinfa
+conf/iri,IEEE International Conference on Information Reuse and Integration,National: USA,https://dblp.uni-trier.de/db/conf/iri
+conf/isi,IEEE International Conference on Intelligence and Security Informatics,C,https://dblp.uni-trier.de/db/conf/isi
+conf/iccp2,IEEE International Conference on Intelligent Computer Communication and Processing,National: Romania,https://dblp.uni-trier.de/db/conf/iccp2
+conf/is,IEEE International Conference on Intelligent Systems,C,https://dblp.uni-trier.de/db/conf/is
+conf/mass,IEEE International Conference on Mobile Ad-hoc and Sensor Systems,B,https://dblp.uni-trier.de/db/conf/mass
+conf/icmcs,IEEE International Conference on Multimedia and Expo,A,https://dblp.uni-trier.de/db/conf/icmcs
+conf/percom,IEEE International Conference on Pervasive Computing and Communications,A*,https://dblp.uni-trier.de/db/conf/percom
+conf/iwpc,"IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",A,https://dblp.uni-trier.de/db/conf/iwpc
+conf/icra,IEEE International Conference on Robotics and Automation,B,https://dblp.uni-trier.de/db/conf/icra
+conf/secon,"IEEE International Conference on Sensing, Communication and Networking",B,https://dblp.uni-trier.de/db/conf/secon
+conf/soca,IEEE International Conference on Service-Oriented Computing and Applications,C,https://dblp.uni-trier.de/db/conf/soca
+conf/IEEEscc,IEEE International Conference on Services Computing,B,https://dblp.uni-trier.de/db/conf/IEEEscc
+conf/wcre,"IEEE International Conference on Software Analysis, Evolution and Reengineering",A,https://dblp.org/db/conf/wcre
+conf/icsm,"IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",A,https://dblp.uni-trier.de/db/conf/icsm
+conf/vcip,IEEE International Conference on Visual Communications and Image Processing (was SPIE ... pre 2011),B,https://dblp.uni-trier.de/db/conf/vcip
+conf/icws,IEEE International Conference on Web Services,A,https://dblp.uni-trier.de/db/conf/icws
+conf/wimob,"IEEE International Conference on Wireless and Mobile Computing, Networking and Communications",B,https://dblp.uni-trier.de/db/conf/wimob
+conf/edoc,IEEE International Enterprise Distributed Object Computing Conference,B,https://dblp.uni-trier.de/db/conf/edoc
+conf/igarss,IEEE International Geoscience and Remote Sensing Symposium,C,https://dblp.uni-trier.de/db/conf/igarss
+conf/ijcnn,IEEE International Joint Conference on Neural Networks,B,https://dblp.uni-trier.de/db/conf/ijcnn
+conf/iolts,IEEE International On-Line Testing Symposium,C,https://dblp.uni-trier.de/db/conf/iolts
+conf/ipps,IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP),A,https://dblp.uni-trier.de/db/conf/ipps
+conf/ipccc,IEEE International Performance Computing and Communications Conference,B,https://dblp.uni-trier.de/db/conf/ipccc
+conf/re,IEEE International Requirements Engineering Conference,A,https://dblp.uni-trier.de/db/conf/re
+conf/wowmom,"IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",B,https://dblp.uni-trier.de/db/conf/wowmom
+conf/ccgrid,"IEEE International Symposium on Cluster, Cloud and Grid Computing",A,https://dblp.uni-trier.de/db/conf/ccgrid
+conf/hase,IEEE International Symposium on High Assurance Systems Engineering,B,https://dblp.uni-trier.de/db/conf/hase
+conf/isit,IEEE International Symposium on Information Theory,B,https://dblp.uni-trier.de/db/conf/isit
+conf/ism,IEEE International Symposium on Multimedia,C,https://dblp.uni-trier.de/db/conf/ism
+conf/nca,IEEE International Symposium on Network Computing and Applications,B,https://dblp.uni-trier.de/db/conf/nca
+conf/ispa,IEEE International Symposium on Parallel and Distributed Processing with Applications,C,https://dblp.uni-trier.de/db/conf/ispa
+conf/ispass,IEEE International Symposium on Performance Analysis of Systems and Software,B,https://dblp.uni-trier.de/db/conf/ispass
+conf/pimrc,IEEE International Symposium on Personal and Indoor Mobile Radio Conference,B,https://dblp.uni-trier.de/db/conf/pimrc
+conf/rsp,IEEE International Symposium on Rapid System Prototyping (was IEEE Symposium on Rapid Prototyping),C,https://dblp.uni-trier.de/db/conf/rsp
+conf/isorc,IEEE International Symposium on Real-Time Distributed Computing,C,https://dblp.uni-trier.de/db/conf/isorc
+conf/msr,IEEE International Working Conference on Mining Software Repositories,A,https://dblp.uni-trier.de/db/conf/msr
+conf/vissoft,IEEE International Working Conference on Software Visualisation,B,https://dblp.uni-trier.de/db/conf/vissoft
+conf/iwqos,IEEE International Workshop on Quality of Service,B,https://dblp.uni-trier.de/db/conf/iwqos
+conf/scam,IEEE International Workshop on Source Code Analysis and Manipulation,C,https://dblp.uni-trier.de/db/conf/scam
+conf/lanman,IEEE LAN/MAN Workshop,C,https://dblp.org/db/conf/lanman
+conf/noms,IEEE Network Operations and Management Symposium,B,https://dblp.uni-trier.de/db/conf/noms
+conf/apvis,IEEE Pacific Visualization Symposium (was APVIS),B,https://dblp.uni-trier.de/db/conf/apvis
+conf/rtas,IEEE Real-Time and Embedded Technology and Applications Symposium,A,https://dblp.uni-trier.de/db/conf/rtas
+conf/cifer,IEEE Symposium on Computational Intelligence for Financial Engineering,C,https://dblp.uni-trier.de/db/conf/cifer
+conf/cibcb,IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology,C,https://dblp.uni-trier.de/db/conf/cibcb
+conf/arith,IEEE Symposium on Computer Arithmetic,C,https://dblp.uni-trier.de/db/conf/arith
+conf/iscc,IEEE Symposium on Computers and Communications,B,https://dblp.uni-trier.de/db/conf/iscc
+conf/fccm,IEEE Symposium on Field Programmable Custom Computing Machines,B,https://dblp.uni-trier.de/db/conf/fccm
+conf/focs,IEEE Symposium on Foundations of Computer Science,A*,https://dblp.uni-trier.de/db/conf/focs
+conf/hoti,IEEE Symposium on High-Performance Interconnects,National: USA,https://dblp.uni-trier.de/db/conf/hoti
+conf/lics,IEEE Symposium on Logic in Computer Science,A*,https://dblp.uni-trier.de/db/conf/lics
+conf/sp,IEEE Symposium on Security and Privacy,A*,https://dblp.uni-trier.de/db/conf/sp
+conf/vl,IEEE Symposium on Visual Languages and Human-Centric Computing (was VL),B,https://dblp.uni-trier.de/db/conf/vl
+conf/tencon,IEEE Tencon (IEEE Region 10 Conference),C,https://dblp.uni-trier.de/db/conf/tencon
+conf/vtc,IEEE Vehicular Technology Conference,B,https://dblp.uni-trier.de/db/conf/vtc
+conf/visualization,IEEE Visualization,A,https://dblp.uni-trier.de/db/conf/visualization
+conf/wcnc,IEEE Wireless Communications and Networking Conference,B,https://dblp.uni-trier.de/db/conf/wcnc
+conf/wacv,IEEE Workshop on Applications of Computer Vision,A,https://dblp.uni-trier.de/db/conf/wacv
+conf/hpsr,IEEE Workshop on High Performance Switching and Routing,C,https://dblp.uni-trier.de/db/conf/hpsr
+conf/ACISicis,IEEE/ACIS International Conference on Computer and Information Science,C,https://dblp.uni-trier.de/db/conf/ACISicis
+conf/bdc,"IEEE/ACM International Conference on Big Data Computing, Applications and Technologies",C,https://dblp.org/db/conf/bdc
+conf/iccad,IEEE/ACM International Conference on Computer-Aided Design,A,https://dblp.uni-trier.de/db/conf/iccad
+conf/ismar,IEEE/ACM International Symposium on Mixed and Augmented Reality,A*,https://dblp.uni-trier.de/db/conf/ismar
+conf/dsn,IEEE/IFIP International Conference on Dependable Systems and Networks,A,https://dblp.uni-trier.de/db/conf/dsn
+conf/euc,IEEE/IFIP International Conference on Embedded and Ubiquitous Computing,C,https://dblp.uni-trier.de/db/conf/euc
+conf/iros,IEEE/RSJ International Conference on Intelligent Robots and Systems,A,https://dblp.uni-trier.de/db/conf/iros
+conf/sec,IFIP Information Security & Privacy Conference,B,https://dblp.uni-trier.de/db/conf/sec
+conf/dais,IFIP International Conference on Distributed Applications and Interoperable Systems,C,https://dblp.uni-trier.de/db/conf/dais
+conf/npc,IFIP¬†International Conference on Network and Parallel Computing,C,https://dblp.uni-trier.de/db/conf/npc
+conf/networking,IFIP International Conference on Networking,B,https://dblp.uni-trier.de/db/conf/networking
+conf/interact,IFIP TC13 Conference on Human-Computer Interaction,B,https://dblp.uni-trier.de/db/conf/interact
+conf/dbsec,IFIP WG 11.3 Working Conference on Data and Applications Security (also known as DBSEC),B,https://dblp.uni-trier.de/db/conf/dbsec
+conf/ifip8-1,IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling,C,https://dblp.org/db/conf/ifip8-1
+conf/im,IFIP/IEEE International Symposium on Integrated Management (even years sharing with NOMS),B,https://dblp.org/db/conf/im
+conf/ifsa,IFSA World Congress,C,https://dblp.uni-trier.de/db/conf/ifsa
+conf/ima,IMA International Conference on Cryptography and Coding,B,https://dblp.org/db/conf/ima
+conf/ivcnz,Image and Vision Computing Conference,Australasian B,https://dblp.uni-trier.de/db/conf/ivcnz
+conf/ilp,Inductive Logic Programming,B,https://dblp.uni-trier.de/db/conf/ilp
+conf/ih,Information Hiding and Multimedia Security Workshop,C,https://dblp.uni-trier.de/db/conf/ih
+conf/iiwas,Information Integration and Web-based Applications and Services,C,https://dblp.uni-trier.de/db/conf/iiwas
+conf/ipsn,Information Processing in Sensor Networks,A*,https://dblp.uni-trier.de/db/conf/ipsn
+conf/ispec,Information Security Practice and Experience Conference,B,https://dblp.uni-trier.de/db/conf/ispec
+conf/itw,Information Theory Workshop,B,https://dblp.uni-trier.de/db/conf/itw
+conf/innovations,Innovations in Theoretical Computer Science,A,https://dblp.org/db/conf/innovations
+conf/iaai,Innovative Applications in AI,B,https://dblp.uni-trier.de/db/conf/iaai
+conf/fmics,Int. Workshop on Formal Methods for Industrial Critical Systems,C,https://dblp.uni-trier.de/db/conf/fmics
+conf/ifm,Integrated Formal Methods,B,https://dblp.uni-trier.de/db/conf/ifm
+conf/ida,Intelligent Data Analysis,B,https://dblp.uni-trier.de/db/conf/ida
+conf/idc,Intelligent Distributed Computing,Unranked,https://dblp.uni-trier.de/db/conf/idc
+conf/ismb,Intelligent Systems in Molecular Biology,journal published,https://dblp.uni-trier.de/db/conf/ismb
+conf/ivs,Intelligent Vehicles Conference,B,https://dblp.uni-trier.de/db/conf/ivs
+conf/iva,Intelligent Virtual Agents,B,https://dblp.uni-trier.de/db/conf/iva
+conf/assets,International ACM SIGACCESS Conference on Computers and Accessibility,A,https://dblp.uni-trier.de/db/conf/assets
+conf/context,International and Interdisciplinary Conference on Modelling and Using Context,C,https://dblp.uni-trier.de/db/conf/context
+conf/balt,International Baltic Conference on Databases and Information Systems,Regional - Baltic,https://dblp.uni-trier.de/db/conf/balt
+conf/icalp,International Colloquium on Automata Languages and Programming,A,https://dblp.uni-trier.de/db/conf/icalp
+conf/sirocco,International Colloquium on Structural Information and Communication Complexity,B,https://dblp.uni-trier.de/db/conf/sirocco
+conf/ictac,International Colloquium on Theoretical Aspects of Computing,B,https://dblp.uni-trier.de/db/conf/ictac
+conf/csr,International Computer Science Symposium in Russia,National: Russia,https://dblp.uni-trier.de/db/conf/csr
+conf/compsac,International Computer Software and Applications Conference,B,https://dblp.uni-trier.de/db/conf/compsac
+conf/icer,International Computing Education Research Workshop,B,https://dblp.uni-trier.de/db/conf/icer
+conf/zum,"International Conference Abstract State Machines, Alloy, B, TLA, VDM, and Z (Previously International Conference of B and Z Users, ZB, changed in 2008)",C,https://dblp.uni-trier.de/db/conf/zum
+conf/hpcasia,International Conference and Exhibition on High Performance Computing in the Asia-Pacific Region,C,https://dblp.uni-trier.de/db/conf/hpcasia
+conf/walcom,International Conference and Workshops on Algorithms and Computation,B,https://dblp.uni-trier.de/db/conf/walcom
+conf/sc,"International Conference for High Performance Computing, Networking, Storage and Analysis (was Supercomputing Conference)",A,https://dblp.uni-trier.de/db/conf/sc
+conf/icfca,International Conference Formal Concept Analysis Conference,C,https://dblp.uni-trier.de/db/conf/icfca
+conf/bpm,International Conference in Business Process Management,A,https://dblp.uni-trier.de/db/conf/bpm
+conf/mis4tel,International Conference in Methodologies and Intelligent Systems for Technology Enhanced Learning,Unranked,https://dblp.org/db/conf/mis4tel
+conf/isat,International Conference Information Systems Architecture and Technology,National:Poland,https://dblp.org/db/conf/isat
+conf/ilrn,International Conference of the Immersive Learning Research Network,C,https://dblp.org/db/conf/ilrn
+conf/adhoc-now,International Conference on AD-HOC Networks and Wireless,C,https://dblp.org/db/conf/adhoc-now
+conf/atc,International Conference on Advanced and Trusted Computing (was International Conference on Autonomic and Trusted Computing),C,https://dblp.uni-trier.de/db/conf/atc
+conf/adma,International Conference on Advanced Data Mining and Applications,B,https://dblp.uni-trier.de/db/conf/adma
+conf/aina,International Conference on Advanced Information Networking and Applications (was ICOIN),B,https://dblp.uni-trier.de/db/conf/aina
+conf/caise,International Conference on Advanced Information Systems Engineering,A,https://dblp.uni-trier.de/db/conf/caise
+conf/atsip,International Conference on Advanced Technologies For Signal & Image Processing,National: Tunisia,https://dblp.org/db/conf/atsip
+conf/momm,International Conference on Advances in Mobile Computing and Multimedia,B,https://dblp.uni-trier.de/db/conf/momm
+conf/acii,International Conference on Affective Computing and Intelligent,C,https://dblp.uni-trier.de/db/conf/acii
+conf/icaart,International Conference on Agents and Artificial Intelligence,B,https://dblp.uni-trier.de/db/conf/icaart
+conf/ica3pp,International Conference on Algorithms and Architectures for Parallel Processing,B,https://dblp.uni-trier.de/db/conf/ica3pp
+conf/ciac,International Conference on Algorithms and Complexity (was Italian Conference ),C,https://dblp.uni-trier.de/db/conf/ciac
+conf/aist,"International Conference on Analysis of Images, Social Networks and Texts",National: Russia,https://dblp.org/db/conf/aist
+conf/acns,International Conference on Applied Cryptography and Network Security,B,https://dblp.uni-trier.de/db/conf/acns
+conf/icail,International Conference on Artificial Intelligence and Law,C,https://dblp.uni-trier.de/db/conf/icail
+conf/icaisc,International Conference on Artificial Intelligence and Soft Computing,National: Poland,https://dblp.uni-trier.de/db/conf/icaisc
+conf/aistats,International Conference on Artificial Intelligence and Statistics,A,https://dblp.uni-trier.de/db/conf/aistats
+conf/aied,International Conference on Artificial Intelligence in Education,A,https://dblp.uni-trier.de/db/conf/aied
+conf/aimsa,"International Conference on Artificial Intelligence: Methodology, Systems, Applications",National: Bulgaria,https://dblp.uni-trier.de/db/conf/aimsa
+conf/icann,International Conference on Artificial Neural Networks,C,https://dblp.uni-trier.de/db/conf/icann
+conf/egve,International Conference on Artificial Reality and Telexistance & Eurographics Symposium on Virtual Environments,B,https://dblp.uni-trier.de/db/conf/egve
+conf/cade,International Conference on Automated Deduction,A,https://dblp.uni-trier.de/db/conf/cade
+conf/aips,International Conference on Automated Planning and Scheduling,A*,https://dblp.uni-trier.de/db/conf/aips
+conf/IEEEares,"International Conference on Availability, Reliability and Security",B,https://dblp.uni-trier.de/db/conf/IEEEares
+conf/broadnets,"International Conference on Broadband Communications, Networks and Systems",B,https://dblp.uni-trier.de/db/conf/broadnets
+conf/iccbr,International Conference on Case-Based Reasoning,B,https://dblp.uni-trier.de/db/conf/iccbr
+conf/closer,International Conference on Cloud Computing and Services Science,C,https://dblp.uni-trier.de/db/conf/closer
+conf/colcom,"International Conference on Collaborative Computing: Networks, Applications and Worksharing",C,https://dblp.uni-trier.de/db/conf/colcom
+conf/comsnets,International Conference on COMmunication Systems & NETworkS,National:India,https://dblp.org/db/conf/comsnets
+conf/cc,International Conference on Compiler Construction,B,https://dblp.uni-trier.de/db/conf/cc
+conf/cases,"International Conference on Compilers, Architecture, and Synthesis for Embedded Systems",B,https://dblp.uni-trier.de/db/conf/cases
+conf/cisis,"International Conference on Complex, Intelligent and Software Intensive Systems",C,https://dblp.uni-trier.de/db/conf/cisis
+conf/complexis,"International Conference on Complexity, Future Information Systems and Risk",C,http://dblp.uni-trier.de/db/conf/complexis
+conf/iccci,International Conference on Computational Collective Intelligence,B,https://dblp.uni-trier.de/db/conf/iccci
+conf/icccrea,International Conference on Computational Creativity,Unranked,https://dblp.uni-trier.de/db/conf/icccrea
+conf/cis,International Conference on Computational Intelligence and Security,National: China,https://dblp.uni-trier.de/db/conf/cis
+conf/coling,International Conference on Computational Linguistics,A,https://dblp.uni-trier.de/db/conf/coling
+conf/recomb,International Conference on Computational Molecular Biology,B,https://dblp.uni-trier.de/db/conf/recomb
+conf/iccS,International Conference on Computational Science,A,https://dblp.uni-trier.de/db/conf/iccS
+conf/iccsa,International Conference on Computational Science and its Applications,C,https://dblp.uni-trier.de/db/conf/iccsa
+conf/caip,International Conference on Computer Analysis of Images and Patterns,B,https://dblp.uni-trier.de/db/conf/caip
+conf/icccn,International Conference on Computer Communication and Networks,B,https://dblp.uni-trier.de/db/conf/icccn
+conf/safecomp,"International Conference on Computer Safety, Reliability and Security",B,https://dblp.uni-trier.de/db/conf/safecomp
+conf/cscwd,International Conference on Computer Supported Cooperative Work in Design,B,https://dblp.uni-trier.de/db/conf/cscwd
+conf/csedu,International Conference on Computer Supported Education,B,http://dblp.uni-trier.de/db/conf/csedu
+conf/iccvg,International Conference on Computer Vision and Graphics,National: Poland,https://dblp.uni-trier.de/db/conf/iccvg
+conf/icvs,International Conference on Computer Vision Systems,C,https://dblp.uni-trier.de/db/conf/icvs
+conf/chira,International Conference on Computer-Human Interaction Research and Applications,C,https://dblp.uni-trier.de/db/conf/chira
+conf/cata,International Conference on Computers and their Applications,National: USA,https://dblp.uni-trier.de/db/conf/cata
+conf/icchp,International Conference on Computers Helping People with Special Needs,C,https://dblp.uni-trier.de/db/conf/icchp
+conf/cocoon,International Conference on Computing and Combinatorics,National:China,https://dblp.uni-trier.de/db/conf/cocoon
+conf/er,International Conference on Conceptual Modelling,A,https://dblp.uni-trier.de/db/conf/er
+conf/iccs,International Conference on Conceptual Structures,B,https://dblp.uni-trier.de/db/conf/iccs
+conf/concur,International Conference on Concurrency Theory,A,https://dblp.uni-trier.de/db/conf/concur
+conf/icarcv,"International Conference on Control, Automation, Robotics and Vision",C,https://dblp.uni-trier.de/db/conf/icarcv
+conf/codit,"International Conference on Control, Decision and Information Technologies",C,https://dblp.org/db/conf/codit
+conf/coordination,International Conference on Coordination Models and Languages,C,https://dblp.uni-trier.de/db/conf/coordination
+conf/cans,International Conference on Cryptology and Network Security,B,https://dblp.uni-trier.de/db/conf/cans
+conf/indocrypt,International Conference on Cryptology in India,National: India,https://dblp.uni-trier.de/db/conf/indocrypt
+conf/cw,International Conference on Cyberworlds (was International Symposium on Cyberworlds),B,https://dblp.uni-trier.de/db/conf/cw
+conf/icde,International Conference on Data Engineering,A*,https://dblp.uni-trier.de/db/conf/icde
+conf/data,"International Conference on Data Science, Technology and Applications",C,https://dblp.uni-trier.de/db/conf/data
+conf/dexa,International Conference on Database and Expert Systems Applications,B,https://dblp.uni-trier.de/db/conf/dexa
+conf/dasfaa,International Conference on Database Systems for Advanced Applications,B,https://dblp.uni-trier.de/db/conf/dasfaa
+conf/icdt,International Conference on Database Theory,A,https://dblp.uni-trier.de/db/conf/icdt
+conf/depcos,International Conference on Dependability of Computer Systems,National: Poland,https://dblp.uni-trier.de/db/conf/depcos
+conf/dasc,"International Conference on Dependable, Autonomic and Secure Computing",C,https://dblp.uni-trier.de/db/conf/dasc
+conf/dgci,International Conference on Discrete Geometry for Computer Imagery,C,https://dblp.uni-trier.de/db/conf/dgci
+conf/dcai,International Conference on Distributed Computing and Artificial Intelligence,National(Spain),https://dblp.org/db/conf/dcai
+conf/icdcit,International Conference on Distributed Computing and Internet Technologies,National: India,https://dblp.uni-trier.de/db/conf/icdcit
+conf/icdcn,International Conference on Distributed Computing and Networking,National: India,https://dblp.uni-trier.de/db/conf/icdcn
+conf/icdcs,International Conference on Distributed Computing Systems,A,https://dblp.uni-trier.de/db/conf/icdcs
+conf/rtcsa,International Conference on Embedded and Real Time Computing Systems and Applications,B,https://dblp.uni-trier.de/db/conf/rtcsa
+conf/ewsn,International Conference on Embedded Wireless Systems and Networks (wasEuropean Conference on Wireless Sensor Networks),B,https://dblp.uni-trier.de/db/conf/ewsn
+conf/euspn,International Conference on Emerging Ubiquitous Systems and Pervasive Networks,Unranked,https://dblp.uni-trier.de/db/conf/euspn
+conf/eann,International Conference on Engineering Applications of Neural Networks,C,https://dblp.uni-trier.de/db/conf/eann
+conf/iwec,International Conference on Entertainment Computing,C,https://dblp.uni-trier.de/db/conf/iwec
+conf/ease,International Conference on Evaluation and Assessment in Software Engineering,A,https://dblp.uni-trier.de/db/conf/ease
+conf/enase,International Conference on Evaluation of Novel Approaches to Software Engineering,B,https://dblp.uni-trier.de/db/conf/enase
+conf/icfem,International Conference on Formal Engineering Methods,B,https://dblp.uni-trier.de/db/conf/icfem
+conf/memocode,International Conference on Formal Methods and Models for Co-Design,C,https://dblp.uni-trier.de/db/conf/memocode
+conf/fois,International Conference on Formal Ontology in Information Systems,B,https://dblp.uni-trier.de/db/conf/fois
+conf/fscd,International Conference on Formal Structures for Computation and Deduction,unranked:NEW,https://dblp.org/db/conf/fscd
+conf/icfhr,International Conference on Frontiers of Handwriting Recognition,B,https://dblp.uni-trier.de/db/conf/icfhr
+conf/fit,International Conference on Frontiers of Information Technology,National: Pakistan,https://dblp.uni-trier.de/db/conf/fit
+conf/icfp,International Conference on Functional Programming,A,https://dblp.uni-trier.de/db/conf/icfp
+conf/gpce,International Conference on Generative Programming and Component Engineering,B,https://dblp.uni-trier.de/db/conf/gpce
+conf/gg,International Conference on Graph Transformations,B,https://dblp.org/db/conf/gg
+conf/gpc,"International Conference on Green, Pervasive and Cloud Computing (was Grid and Pervasive Computing)",C,https://dblp.uni-trier.de/db/conf/gpc
+conf/codesisss,"International Conference on Hardware/Software Codesign and System Synthesis (previously ISSN, changed in 2003)",C,https://dblp.uni-trier.de/db/conf/codesisss
+conf/qshine,"International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (was International Conference on Quality of Service in Heterogeneous Wired/Wireless Networks)",C,https://dblp.uni-trier.de/db/conf/qshine
+conf/hipc,International Conference on High Performance Computing,National: India,https://dblp.uni-trier.de/db/conf/hipc
+conf/chi,International Conference on Human Factors in Computing Systems,A*,https://dblp.uni-trier.de/db/conf/chi
+conf/mhci,International Conference on Human-Computer Interaction with Mobile Devices and Services,B,https://dblp.uni-trier.de/db/conf/mhci
+conf/hais,International Conference on Hybrid Artificial Intelligence Systems,National: Spain,https://dblp.uni-trier.de/db/conf/hais
+conf/his,International Conference on Hybrid Intelligent Systems,C,https://dblp.uni-trier.de/db/conf/his
+conf/iciap,International Conference on Image Analysis and Processing,National: Italy,https://dblp.uni-trier.de/db/conf/iciap
+conf/iciar,International Conference on Image Analysis and Recognition,C,https://dblp.uni-trier.de/db/conf/iciar
+conf/icig,International Conference on Image and Graphics,National: China,https://dblp.uni-trier.de/db/conf/icig
+conf/icisp,International Conference on Image and Signal Processing,C,https://dblp.uni-trier.de/db/conf/icisp
+conf/wia,International Conference on Implementation and Application of Automata,B,https://dblp.uni-trier.de/db/conf/wia
+conf/ipin,International Conference on Indoor Positioning and Indoor Navigation,C,https://dblp.org/db/conf/ipin
+conf/ieaaie,International Conference on Industrial and Engineering Applications of Artificial Intelligence and Expert Systems,C,https://dblp.uni-trier.de/db/conf/ieaaie
+conf/iddm,International Conference on Informatics & Data-Driven Medicine,C,https://dblp.uni-trier.de/db/conf/iddm
+conf/icinco,"International Conference on Informatics in Control, Automation and Robotics",C,https://dblp.uni-trier.de/db/conf/icinco
+conf/ictd,International Conference on Information and Communication Technologies and Development,C,https://dblp.uni-trier.de/db/conf/ictd
+conf/enter,International Conference on Information and Communication Technologies in Tourism,C,https://dblp.uni-trier.de/db/conf/enter
+conf/icics,International Conference on Information and Communications Security,B,https://dblp.uni-trier.de/db/conf/icics
+conf/fusion,International Conference on Information Fusion,C,https://dblp.uni-trier.de/db/conf/fusion
+conf/ipmu,International Conference on Information Processing and Management of Uncertainty,C,https://dblp.uni-trier.de/db/conf/ipmu
+conf/secrypt,International Conference on Information Security and Cryptography,B,https://dblp.uni-trier.de/db/conf/secrypt
+conf/icisc,International Conference on Information Security and Cryptology,National: Korea,https://dblp.uni-trier.de/db/conf/icisc
+conf/iciss,International Conference on Information Systems Security,National: India,https://dblp.uni-trier.de/db/conf/iciss
+conf/icissp,International Conference on Information Systems Security and Privacy,C,https://dblp.uni-trier.de/db/conf/icissp
+conf/iv,International Conference on Information Visualisation,B,https://dblp.uni-trier.de/db/conf/iv
+conf/iics,International Conference on Innovations for Community Services (was Innovative Internet Computer Systems IICS until 2014),C,https://dblp.uni-trier.de/db/conf/iics
+conf/cpaior,International Conference on Integration of Artificial Intelligence and Operations Research Techniques in Constraint Programming for Combinatorial Optimization Problems,B,https://dblp.uni-trier.de/db/conf/cpaior
+conf/ideal,International Conference on Intelligent Data Engineering and Automated Learning,C,https://dblp.uni-trier.de/db/conf/ideal
+conf/somet,"International Conference on Intelligent Software Methodologies, Tools, and Techniques (was International Conference on Software Methods and Tools)",C,https://dblp.uni-trier.de/db/conf/somet
+conf/iske,International Conference on Intelligent Systems and Knowledge Engineering,National: China,https://dblp.uni-trier.de/db/conf/iske
+conf/isda,International Conference on Intelligent Systems Designs and Applications,C,https://dblp.uni-trier.de/db/conf/isda
+conf/cicling,International Conference on Intelligent Text Processing and Computational Linguistics,B,https://dblp.uni-trier.de/db/conf/cicling
+conf/its,International Conference on Intelligent Tutoring Systems,B,https://dblp.uni-trier.de/db/conf/its
+conf/iui,International Conference on Intelligent User Interfaces,A,https://dblp.uni-trier.de/db/conf/iui
+conf/icids,"International Conference on Interactive Digital Storytelling (2008 merger of ""ICVS International Conference on Virtual Storytelling"" and ""TIDSE Technology for Interactive Digital Storytelling"")",C,https://dblp.uni-trier.de/db/conf/icids
+conf/iotbd,"International Conference on Internet of Things, Big Data and Security",C,https://dblp.uni-trier.de/db/conf/iotbd
+conf/ita,International Conference on Internet Technologies and Applications,National: USA,https://dblp.uni-trier.de/db/conf/ita
+conf/ekaw,International Conference on Knowledge Engineering and Knowledge Management,B,https://dblp.uni-trier.de/db/conf/ekaw
+conf/ksem,"International Conference on Knowledge Science, Engineering and Management",B,https://dblp.uni-trier.de/db/conf/ksem
+conf/kes,International Conference on Knowledge-Based and Intelligent Information and Engineering Systems,B,https://dblp.uni-trier.de/db/conf/kes
+conf/lata,International Conference on Language and Automata Theory and Applications,C,https://dblp.uni-trier.de/db/conf/lata
+conf/lak,International Conference on Learning Analytics and Knowledge,A,https://dblp.uni-trier.de/db/conf/lak
+conf/iclr,International Conference on Learning Representations,A*,https://dblp.uni-trier.de/db/conf/iclr
+conf/jurix,International Conference on Legal Knowledge and Information Systems,C,https://dblp.uni-trier.de/db/conf/jurix
+conf/iclp,International Conference on Logic Programming,A,https://dblp.uni-trier.de/db/conf/iclp
+conf/lpnmr,International Conference on Logic Programming and Non-monotonic Reasoning,B,https://dblp.uni-trier.de/db/conf/lpnmr
+conf/icml,International Conference on Machine Learning,A*,https://dblp.uni-trier.de/db/conf/icml
+conf/icmla,International Conference on Machine Learning and Applications,C,https://dblp.uni-trier.de/db/conf/icmla
+conf/icmlc,International Conference on Machine Learning and Cybernetics,National: China,https://dblp.uni-trier.de/db/conf/icmlc
+conf/icmv,International Conference on Machine Vision,C,https://dblp.uni-trier.de/db/conf/icmv
+conf/pppj,International Conference on Managed Programming Languages and Runtimes (was ManLang and previously Principles and Practice of Programming in Java: PPPJ),C,https://dblp.uni-trier.de/db/conf/pppj
+conf/comad,International Conference on Management of Data,National: India,https://dblp.uni-trier.de/db/conf/comad
+conf/medes,International Conference on Management of Digital EcoSystems,Unranked,https://dblp.uni-trier.de/db/conf/medes
+conf/mfps,International Conference on Mathematical Foundations of Programming Semantics,B,https://dblp.org/db/conf/mfps
+conf/mmar,International Conference on Methods and Models in Automation and Robotics,National:Poland,https://dblp.uni-trier.de/db/conf/mmar
+conf/mobiquitous,International Conference on Mobile and Ubiquitous Systems: Networks and Services,B,https://dblp.uni-trier.de/db/conf/mobiquitous
+conf/mdm,International Conference on Mobile Data Management,B,https://dblp.uni-trier.de/db/conf/mdm
+conf/medi,International Conference on Model and Data Engineering,C,https://dblp.org/db/conf/medi
+conf/models,"International Conference on Model Driven Engineering Languages and Systems (Previously UML, changed in 2005)",A,https://dblp.uni-trier.de/db/conf/models
+conf/icmt,International Conference on Model Transformation,B,https://dblp.uni-trier.de/db/conf/icmt
+conf/modelsward,International Conference on Model-Driven Engineering and Software Development,C,https://dblp.uni-trier.de/db/conf/modelsward
+conf/ecms,International Conference on Modelling and Simulation,B,https://dblp.uni-trier.de/db/conf/ecms
+conf/mdai,International Conference on Modelling Decisions for Artificial Intelligence,B,https://dblp.uni-trier.de/db/conf/mdai
+conf/mmm,International Conference on Multimedia Modelling,B,https://dblp.uni-trier.de/db/conf/mmm
+conf/mir,International Conference on Multimedia Retrieval (previously MIR),B,https://dblp.uni-trier.de/db/conf/mir
+conf/icmi,International Conference on Multimodal Interaction (was International Conference on Multimodal Interfaces),B,https://dblp.uni-trier.de/db/conf/icmi
+conf/icnc,International Conference on Natural Computation,National: China,https://dblp.uni-trier.de/db/conf/icnc
+conf/cnsm,International Conference on Network and Service Management (amalgamation of DSOM and related workshops from 2010),B,https://dblp.uni-trier.de/db/conf/cnsm
+conf/nss,International Conference on network and System Security,B,https://dblp.uni-trier.de/db/conf/nss
+conf/icnp,International Conference on Network Protocols,A,https://dblp.uni-trier.de/db/conf/icnp
+conf/netsoft,International Conference on Network Softwarization,B,https://dblp.org/db/conf/netsoft/
+conf/iconip,International Conference on Neural Information Processing,B,https://dblp.uni-trier.de/db/conf/iconip
+conf/icores,International Conference on Operations Research and Enterprise Systems,C,https://dblp.uni-trier.de/db/conf/icores
+conf/pdcat,"International Conference on Parallel and Distributed Computing, Applications and Technologies",C,https://dblp.uni-trier.de/db/conf/pdcat
+conf/icpads,International Conference on Parallel and Distributed Systems,B,https://dblp.uni-trier.de/db/conf/icpads
+conf/IEEEpact,International Conference on Parallel Architecture and Compilation Techniques,B,https://dblp.uni-trier.de/db/conf/IEEEpact
+conf/icpp,International Conference on Parallel Processing,A,https://dblp.uni-trier.de/db/conf/icpp
+conf/ppam,International Conference on Parallel Processing and Applied Mathematics,National: Poland,https://dblp.uni-trier.de/db/conf/ppam
+conf/icpr,International Conference on Pattern Recognition,B,https://dblp.uni-trier.de/db/conf/icpr
+conf/icpram,International Conference on Pattern Recognition Applications and Methods,C,https://dblp.uni-trier.de/db/conf/icpram
+conf/pacbb,International Conference on Practical Applications of Computational Biology & Bioinformatics,National(Spain),https://dblp.org/db/conf/pacbb
+conf/pkc,International Conference on Practice and Theory in Public Key Cryptography,B,https://dblp.uni-trier.de/db/conf/pkc
+conf/cp,International Conference on Principles and Practice of Constraint Programming,A,https://dblp.uni-trier.de/db/conf/cp
+conf/ppdp,International Conference on Principles and Practice of Declarative Programming,C,https://dblp.uni-trier.de/db/conf/ppdp
+conf/opodis,International Conference on Principles of Distributed Systems,B,https://dblp.uni-trier.de/db/conf/opodis
+conf/prima,International Conference on Principles of Practice in Multi-Agent Systems (prior to 2009 was Pacific Rim International Workshop on Multi-Agents),B,https://dblp.uni-trier.de/db/conf/prima
+conf/post,International Conference on Principles of Security and Trust,Unranked,https://dblp.uni-trier.de/db/conf/post
+conf/aofa,"International Conference on Probabilistic, Combinatorial, and Asymptotic Methods in the Analysis of Algorithms (was Conference on Analysis of Algorithms)",B,https://dblp.uni-trier.de/db/conf/aofa
+conf/provsec,International Conference on Provable Security,B,https://dblp.uni-trier.de/db/conf/provsec
+conf/rtns,International Conference on Real-Time and Network Systems,National: France,https://dblp.uni-trier.de/db/conf/rtns
+conf/ranlp,International Conference on Recent Advances in Natural Language Processing,National: bulgaria,https://dblp.uni-trier.de/db/conf/ranlp
+conf/RelMiCS,International Conference on Relational and AlgebraicMethods in Computer Science (was International Conference on Relational Methods in Computer Science RelMiCS),C,https://dblp.uni-trier.de/db/conf/RelMiCS
+conf/adaEurope,International Conference on Reliable Software Technologies,B,https://dblp.uni-trier.de/db/conf/adaEurope
+conf/rcis,International Conference on Research Challenges in Information Science,B,https://dblp.uni-trier.de/db/conf/rcis
+conf/crisis,International Conference on Risks and Security of Internet and Systems,C,https://dblp.uni-trier.de/db/conf/crisis
+conf/rv,International Conference on Runtime Verification (was workshop pre 2010),B,https://dblp.uni-trier.de/db/conf/rv
+conf/ssdbm,International Conference on Scientific and Statistical Data Base Management,B,https://dblp.uni-trier.de/db/conf/ssdbm
+conf/securecomm,International Conference on Security and Privacy for Communication Networks,C,https://dblp.uni-trier.de/db/conf/securecomm
+conf/sin,International Conference on Security of Information and Networks,C,https://dblp.uni-trier.de/db/conf/sin
+conf/skg,International Conference on Semantics Knowledge and Grid,National: China,https://dblp.uni-trier.de/db/conf/skg
+conf/icsoc,International Conference on Service Oriented Computing,A,https://dblp.uni-trier.de/db/conf/icsoc
+conf/sisap,International Conference on Similarity Search and Applications,B,https://dblp.org/db/conf/sisap
+conf/simultech,"International Conference on Simulation and Modeling Methodologies, Technologies and Applications",C,http://dblp.uni-trier.de/db/conf/simultech
+conf/icost,International Conference on Smart homes and health Telematics,C,https://dblp.uni-trier.de/db/conf/icost
+conf/icsoft,International Conference on Software and Data Technologies,B,https://dblp.uni-trier.de/db/conf/icsoft
+conf/ispw,International Conference on Software and System Processes (was ICSP prior to 2011),B,https://dblp.uni-trier.de/db/conf/ispw
+conf/icsa,International Conference on Software Architecture (was previously WICSA),A,https://dblp.uni-trier.de/db/conf/icsa
+conf/icse,International Conference on Software Engineering,A*,https://dblp.uni-trier.de/db/conf/icse
+conf/sefm,International Conference on Software Engineering and Formal Methods,B,https://dblp.uni-trier.de/db/conf/sefm
+conf/seke,International Conference on Software Engineering and Knowledge Engineering,B,https://dblp.uni-trier.de/db/conf/seke
+conf/snpd,"International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing",C,https://dblp.uni-trier.de/db/conf/snpd
+conf/sle,International Conference on Software Language Engineering,B,https://dblp.uni-trier.de/db/conf/sle
+conf/icsr,International Conference on Software Reuse,B,https://dblp.uni-trier.de/db/conf/icsr
+conf/icst,"International Conference on Software Testing, Verification and Validation",A,https://dblp.uni-trier.de/db/conf/icst
+conf/seit,International Conference on Sustainable Energy Information Technology,Unranked,https://dblp.uni-trier.de/db/conf/seit
+conf/icseng,International Conference on Systems Engineering,C,https://dblp.uni-trier.de/db/conf/icseng
+conf/pts,International Conference on Testing Software and Systems,C,https://dblp.uni-trier.de/db/conf/pts
+conf/tap,International Conference on Tests and Proofs,C,https://dblp.uni-trier.de/db/conf/tap
+conf/apn,International Conference on the Application and Theory of Petri Nets and Concurrency,B,https://dblp.uni-trier.de/db/conf/apn
+conf/fdg,International Conference on the Foundations of Digital Games,C,https://dblp.uni-trier.de/db/conf/fdg
+conf/kr,International Conference on the Principles of Knowledge Representation and Reasoning,A*,https://dblp.uni-trier.de/db/conf/kr
+conf/quatic,International Conference on the Quality of Information and Communications Technology,C,https://dblp.uni-trier.de/db/conf/quatic
+conf/eurocrypt,International Conference on the Theory and Application of Cryptographic Techniques,A*,https://dblp.uni-trier.de/db/conf/eurocrypt
+conf/asiacrypt,International Conference on the Theory and Application of Cryptology and Information Security,A,https://dblp.uni-trier.de/db/conf/asiacrypt
+conf/ictir,International Conference on the Theory of Information Retrieval,Unranked,https://dblp.uni-trier.de/db/conf/ictir
+conf/tableaux,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,B,https://dblp.uni-trier.de/db/conf/tableaux
+conf/sat,International Conference on Theory and Applications of Satisfiability Testing,A,https://dblp.uni-trier.de/db/conf/sat
+conf/ercimdl,International Conference on Theory and Practice of Digital Libraries (was ECDL until 2010),B,https://dblp.org/db/conf/ercimdl
+conf/ictai,International Conference on Tools with Artificial Intelligence,B,https://dblp.uni-trier.de/db/conf/ictai
+conf/trustbus,"International Conference on Trust, Privacy and Security in Digital Business",B,https://dblp.uni-trier.de/db/conf/trustbus
+conf/trustcom,"International Conference on Trust, Security and Privacy in Computing and Communications",B,https://dblp.org/db/conf/trustcom
+conf/uic,International Conference on Ubiquitous Intelligence and Computing,B,https://dblp.uni-trier.de/db/conf/uic
+conf/uc,International Conference on Unconventional Computation and Natural Computation (was International Conference on Unconventional Computation),C,https://dblp.uni-trier.de/db/conf/uc
+conf/um,"International Conference on User Modelling, Adaptation, and Personalization (was AH and UM)",B,https://dblp.uni-trier.de/db/conf/um
+conf/vehits,International Conference on Vehicle Technology and Intelligent Transport Systems,C,https://dblp.org/db/conf/vehits
+conf/vldb,International Conference on Very Large Databases,A*,https://dblp.uni-trier.de/db/conf/vldb
+conf/vee,International Conference on Virtual Execution Environments,B,https://dblp.uni-trier.de/db/conf/vee
+conf/vsmm,International Conference on Virtual Systems and MultiMedia,B,https://dblp.uni-trier.de/db/conf/vsmm
+conf/vlsid,International Conference on VLSI Design,National: India,https://dblp.uni-trier.de/db/conf/vlsid
+conf/icwsm,International Conference on Web and Social Media,Unranked,https://dblp.uni-trier.de/db/conf/icwsm
+conf/icwe,International Conference on Web Engineering,B,https://dblp.uni-trier.de/db/conf/icwe
+conf/webist,International Conference on Web Information Systems and Technologies,C,https://dblp.uni-trier.de/db/conf/webist
+conf/wise,International Conference on Web Information Systems Engineering,B,https://dblp.uni-trier.de/db/conf/wise
+conf/wincom,International Conference on Wireless Networks and Mobile Communications,National:Morocco,https://dblp.uni-trier.de/db/conf/wincom
+conf/cdmake,International Cross-Domain Conference for Machine Learning and Knowledge Extraction,C,https://dblp.org/db/conf/cdmake
+conf/ideas,International Database Engineering and Applications Symposium,B,https://dblp.uni-trier.de/db/conf/ideas
+conf/europar,International European Conference on Parallel and Distributed Computing (was International Conference on Parallel Processing),B,https://dblp.uni-trier.de/db/conf/europar
+conf/faw,International Frontiers of Algorithmics Workshop,National: China,https://dblp.uni-trier.de/db/conf/faw
+conf/ijcai,International Joint Conference on Artificial Intelligence,A*,https://dblp.uni-trier.de/db/conf/ijcai
+conf/atal,"International Joint Conference on Autonomous Agents and Multiagent Systems (previously the International Conference on Multiagent Systems, ICMAS, changed in 2000)",A*,https://dblp.uni-trier.de/db/conf/atal
+conf/ijcci,International Joint Conference on Computational Intelligence,C,https://dblp.org/db/conf/ijcci
+conf/ic3k,"International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management",C,https://dblp.uni-trier.de/db/conf/ic3k
+conf/ijcnlp,International Joint Conference on Natural Language Processing,B,https://dblp.uni-trier.de/db/conf/ijcnlp
+conf/rskt,International Joint Conference on Rough Sets (2014 International Conference on Rough Sets and Current Trends in Computing joined with 3 others),C,https://dblp.uni-trier.de/db/conf/rskt
+conf/rulemlrr,International Joint Conference on Rules and Reasoning,B,https://dblp.org/db/conf/rulemlrr
+conf/vecpar,"International Meeting on High Performance Computing for Computational Science (previously International Meeting Vector and Parallel Processing, changed in 2002)",B,https://dblp.uni-trier.de/db/conf/vecpar
+conf/inlg,International Natural Language Generation Conference,B,https://dblp.uni-trier.de/db/conf/inlg
+conf/inoc,International Network Optimization Conference,C,https://dblp.uni-trier.de/db/conf/inoc
+conf/pcs,International Picture Coding Symposium,C,https://dblp.uni-trier.de/db/conf/pcs
+conf/cn,International Science Conference on Computer Networks,National:Poland,https://dblp.org/db/conf/cn
+conf/semweb,International Semantic Web Conference,A,https://dblp.org/db/conf/semweb
+conf/sagt,International Symposium on Algorithmic Game Theory,B,https://dblp.uni-trier.de/db/conf/sagt
+conf/isaac,International Symposium on Algorithms and Computation,A,https://dblp.uni-trier.de/db/conf/isaac
+conf/algosensors,International Symposium on Algorithms and Experiments for  Wireless Networks,C,https://dblp.uni-trier.de/db/conf/algosensors
+conf/saci,International Symposium on Applied Computational Intelligence and Informatics,National: Romania,https://dblp.uni-trier.de/db/conf/saci
+conf/isaim,International Symposium on Artificial Intelligence and Mathematics,National: USA,https://dblp.uni-trier.de/db/conf/isaim
+conf/atva,International Symposium on Automated Technology for Verification and Analysis,B,https://dblp.uni-trier.de/db/conf/atva
+conf/isads,International Symposium on Autonomous Decentralized Systems,C,https://dblp.uni-trier.de/db/conf/isads
+conf/cgo,International Symposium on Code Generation and Optimization,A,https://dblp.uni-trier.de/db/conf/cgo
+conf/iscopt,International Symposium on Combinatorial Optimisation,C,https://dblp.uni-trier.de/db/conf/iscopt
+conf/compgeom,International Symposium on Computational Geometry,A,https://dblp.uni-trier.de/db/conf/compgeom
+conf/iscis,International Symposium on Computer and Information Sciences,C,https://dblp.uni-trier.de/db/conf/iscis
+conf/sbac-pad,International Symposium on Computer Architecture and High Performance Computing,B,https://dblp.uni-trier.de/db/conf/sbac-pad
+conf/wdag,International Symposium on Distributed Computing (was WDAG),A,https://dblp.uni-trier.de/db/conf/wdag
+conf/dsrt,International Symposium on Distributed Simulation and Real Time Applications,C,https://dblp.uni-trier.de/db/conf/dsrt
+conf/esem,International Symposium on Empirical Software Engineering and Measurement,A,https://dblp.uni-trier.de/db/conf/esem
+conf/wea,International Symposium on Experimental Algorithms,B,https://dblp.uni-trier.de/db/conf/wea
+conf/fm,International Symposium on Formal Methods (was Formal Methods Europe FME),A,https://dblp.uni-trier.de/db/conf/fm
+conf/ismis,International Symposium on Foundations of Intelligent Systems,C,https://dblp.uni-trier.de/db/conf/ismis
+conf/flops,International Symposium on Functional and Logic Programming,National: Japan,https://dblp.uni-trier.de/db/conf/flops
+conf/fct,International Symposium on Fundamentals of Computation Theory,B,https://dblp.uni-trier.de/db/conf/fct
+conf/hpca,International Symposium on High Performance Computer Architecture,A*,https://dblp.uni-trier.de/db/conf/hpca
+conf/isita,International Symposium on Information Theory and Its Applications,B,https://dblp.uni-trier.de/db/conf/isita
+conf/inista,International Symposium on Innovations in Intelligent Systems and Applications,C,https://dblp.uni-trier.de/db/conf/inista
+conf/iimss,International Symposium on Intelligent and Interactive Multimedia: Systems and Services,C,https://dblp.uni-trier.de/db/conf/iimss
+conf/sisy,International Symposium on Intelligent Systems and Informatics,National: serbia,https://dblp.uni-trier.de/db/conf/sisy
+conf/latin,International Symposium on Latin American Theoretical Informatics,B,https://dblp.uni-trier.de/db/conf/latin
+conf/isola,"International Symposium on Leveraging Applications of Formal Methods, Verification and Validation",C,https://dblp.uni-trier.de/db/conf/isola
+conf/lopstr,International Symposium on Logic-based Program Synthesis and Transformation,B,https://dblp.uni-trier.de/db/conf/lopstr
+conf/mfcs,International Symposium on Mathematical Foundations of Computer Science,A,https://dblp.uni-trier.de/db/conf/mfcs
+conf/iwmm,International Symposium on Memory Management,C,https://dblp.org/db/conf/iwmm
+conf/wiopt,"International Symposium on Modelling and Optimization in Mobile, Ad Hoc, and Wireless Networks",B,https://dblp.uni-trier.de/db/conf/wiopt
+conf/isncc,"International Symposium on Networks, Computers and Communications",C,https://dblp.uni-trier.de/db/conf/isncc
+conf/isnn,International Symposium on Neural Networks,C,https://dblp.uni-trier.de/db/conf/isnn
+conf/wikis,International Symposium on Open Collaboration (was International Symposiums on Wikis),C,https://dblp.uni-trier.de/db/conf/wikis
+conf/ispdc,International Symposium on Parallel and Distributed Computing,C,https://dblp.uni-trier.de/db/conf/ispdc
+conf/ispan,"International Symposium on Parallel Architectures, Algorithms and Networks",B,https://dblp.uni-trier.de/db/conf/ispan
+conf/iwpec,International Symposium on Parameterized and Exact Computation (was IWPEC pre 2004),B,https://dblp.uni-trier.de/db/conf/iwpec
+conf/perdis,INTERNATIONAL SYMPOSIUM ON PERVASIVE DISPLAYS,B,https://dblp.org/db/conf/perdis
+conf/isrr,International Symposium on Robotics Research,A,https://dblp.uni-trier.de/db/conf/isrr
+conf/ssbse,International Symposium on Search Based Software Engineering,B,https://dblp.org/db/conf/ssbse
+conf/seams,International Symposium on Software Engineering for Adaptive and Self-Managing Systems,A,https://dblp.org/db/conf/seams
+conf/setta,"International Symposium on Software Engineering: Theories, Tools, and Applications",National:China,https://dblp.uni-trier.de/db/conf/setta
+conf/issre,International Symposium on Software Reliability Engineering,A,https://dblp.uni-trier.de/db/conf/issre
+conf/issta,International Symposium on Software Testing and Analysis,A,https://dblp.uni-trier.de/db/conf/issta
+conf/ssd,International Symposium on Spatial and Temporal Databases,B,https://dblp.uni-trier.de/db/conf/ssd
+conf/spire,International Symposium on String Processing and Information Retrieval,B,https://dblp.uni-trier.de/db/conf/spire
+conf/issac,International Symposium on Symbolic and Algebraic Computation,A,https://dblp.uni-trier.de/db/conf/issac
+conf/synasc,International Symposium on Symbolic and Numeric Algorithms for Scientific Computing,National: romania,https://dblp.uni-trier.de/db/conf/synasc
+conf/time,International Symposium on Temporal Representation and Reasoning,B,https://dblp.uni-trier.de/db/conf/time
+conf/stacs,International Symposium on Theoretical Aspects of Computer Science,A,https://dblp.uni-trier.de/db/conf/stacs
+conf/tase,International Symposium on Theoretical Aspects of Software Engineering,National: China,https://dblp.uni-trier.de/db/conf/tase
+conf/isvc,International Symposium on Visual Computing,National: USA,https://dblp.uni-trier.de/db/conf/isvc
+conf/itnac,International Telecommunication Networks and Applications Conference (was Australian Telecommunication Networks and Applications Conference),Australasian C,https://dblp.uni-trier.de/db/conf/itnac
+conf/teletraffic,International Teletraffic Congress,Unranked,https://dblp.uni-trier.de/db/conf/teletraffic
+conf/wordnet,International Wordnet Conference (Global Wordnet Conference),C,https://dblp.uni-trier.de/db/conf/wordnet
+conf/iwann,International Work-Conference on Artificial and Natural Neural Networks,National: Spain,https://dblp.uni-trier.de/db/conf/iwann
+conf/iwinac,International Work-conference on the Interplay between Natural and Artificial Computation,National,https://dblp.uni-trier.de/db/conf/iwinac
+conf/approx,International Workshop on Approximation Algorithms for Combinatorial Optimization Problems,A,https://dblp.uni-trier.de/db/conf/approx
+conf/iwoca,International Workshop on Combinatorial Algorithm,B,https://dblp.uni-trier.de/db/conf/iwoca
+conf/iwcia,International Workshop on Combinatorial Image Analysis: Theory and Applications,C,https://dblp.uni-trier.de/db/conf/iwcia
+conf/coin-ws,"International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (Ethics added 2020)",B,https://dblp.uni-trier.de/db/conf/coin-ws/
+conf/critis,International Workshop on Critical Information Infrastructures Security,C,https://dblp.uni-trier.de/db/conf/critis
+conf/damon,International Workshop on Data Management on New Hardware,C,https://dblp.org/db/conf/damon
+conf/dolap,International Workshop on Data Warehousing and OLAP,B,https://dblp.uni-trier.de/db/conf/dolap
+conf/iwdw,International Workshop on Digital Watermarking,C,https://dblp.uni-trier.de/db/conf/iwdw
+conf/das,International Workshop on Document Analysis Systems,B,https://dblp.uni-trier.de/db/conf/das
+conf/wflp,International Workshop on Functional and (Constraint) Logic Programming,C,https://dblp.uni-trier.de/db/conf/wflp
+conf/wg,International Workshop on Graph-Theoretic Concepts in Computer Science,A,https://dblp.uni-trier.de/db/conf/wg
+conf/wisa,International Workshop on Information Security Applications,National: korea,https://dblp.uni-trier.de/db/conf/wisa
+conf/mabs,International Workshop on MultiAgent Based Simulation,C,https://dblp.uni-trier.de/db/conf/mabs
+conf/mmsp,International Workshop on Multimedia Signal Processing,B,https://dblp.uni-trier.de/db/conf/mmsp
+conf/pqcrypto,International Workshop on Post-Quantum Cryptography,C,https://dblp.uni-trier.de/db/conf/pqcrypto
+conf/random,International Workshop on Randomization and Computation,A,https://dblp.uni-trier.de/db/conf/random
+conf/refsq,International Workshop on Requirements Engineering: Foundation for Software Quality,B,https://dblp.uni-trier.de/db/conf/refsq
+conf/iwsec,International Workshop on Security,National: Japan,https://dblp.uni-trier.de/db/conf/iwsec
+conf/scopes,International Workshop on Software and Compilers for Embedded Systems,C,https://dblp.uni-trier.de/db/conf/scopes
+conf/wafr,International Workshop on the Algorithmic Foundations of Robotics,C,https://dblp.uni-trier.de/db/conf/wafr
+conf/webdb,International Workshop on the Web and Databases,National: USA,https://dblp.uni-trier.de/db/conf/webdb
+conf/vizsec,International Workshop on Visualization for Cyber Security,C,https://dblp.uni-trier.de/db/conf/vizsec
+conf/w2gis,International Workshop on Web and Wireless Geographical Information Systems,C,https://dblp.uni-trier.de/db/conf/w2gis
+conf/wetice,International Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises,C,https://dblp.uni-trier.de/db/conf/wetice
+conf/www,International World Wide Web Conference,A*,https://dblp.uni-trier.de/db/conf/www
+conf/imc,Internet Measurement Conference,A,https://dblp.uni-trier.de/db/conf/imc
+conf/interspeech,Interspeech (combined EuroSpeech and ICSLP in 2000),A,https://dblp.uni-trier.de/db/conf/interspeech
+conf/supercomputer,ISC High Performance (was International Supercomputing Conference),C,https://dblp.uni-trier.de/db/conf/supercomputer
+conf/iwsm,Joint Conference of the International Workshop on Software Measurement and the International Conference on Software Process and Product Measurement (IWSM and Mensura combined from 2007),C,https://dblp.uni-trier.de/db/conf/iwsm
+conf/visigrapp,"Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (GRAPP and VISAPP combined from 2008)",B,https://dblp.uni-trier.de/db/conf/visigrapp
+conf/kcap,Knowledge capture,B,https://dblp.uni-trier.de/db/conf/kcap
+conf/lrec,Language Resources and Evaluation Conference,C,https://dblp.uni-trier.de/db/conf/lrec
+conf/ldk,"Language, Data and Knowledge",Unranked: NEW,https://dblp.org/db/conf/ldk
+conf/clei,Latin American Conference on Informatics,C,https://dblp.org/db/conf/clei
+conf/lagos,"Latin-American Algorithms, Graphs and Optimization Symposium",C,https://dblp.org/db/conf/lagos
+conf/lpar,Logic Programming and Automated Reasoning,A,https://dblp.uni-trier.de/db/conf/lpar
+conf/lfcs,Logical Foundations of Computer Science,National: USA,https://dblp.uni-trier.de/db/conf/lfcs
+conf/jelia,"Logics in Artificial Intelligence, European Conference",A,https://dblp.uni-trier.de/db/conf/jelia
+conf/mtsummit,Machine Translation Summit,B,https://dblp.uni-trier.de/db/conf/mtsummit
+conf/mva,Machine Vision Applications,National: japan,https://dblp.uni-trier.de/db/conf/mva
+conf/mcu,"Machines, Computations and Universality (was Universal Machines and Computations)",B,https://dblp.uni-trier.de/db/conf/mcu
+conf/macis,MACIS: International Conference of Mathematical Aspects of Computer and Information Sciences,C,https://dblp.uni-trier.de/db/conf/macis
+conf/mpc,Mathematics of Program Construction,B,https://dblp.uni-trier.de/db/conf/mpc
+conf/sigmetrics,Measurement and Modeling of Computer Systems,A*,https://dblp.uni-trier.de/db/conf/sigmetrics
+conf/miccai,Medical Image Computing and Computer-Assisted Intervention,A,https://dblp.uni-trier.de/db/conf/miccai
+conf/mc,Mensch & Computer,National: Germany,https://dblp.org/db/conf/mc
+conf/mum,Mobile and Ubiquitous Multimedia (ACM),B,https://dblp.org/db/conf/mum
+conf/missi,Multimedia and Network Information Systems,National: Poland,https://dblp.org/db/conf/missi
+conf/aaai,National Conference of the American Association for Artificial Intelligence,A*,https://dblp.uni-trier.de/db/conf/aaai
+conf/nossdav,Network and Operating System Support for Digital Audio and Video,B,https://dblp.uni-trier.de/db/conf/nossdav
+conf/nspw,New Security Paradigms Workshop,C,https://dblp.uni-trier.de/db/conf/nspw
+conf/ntms,New Technologies Mobility and Security,C,https://dblp.org/db/conf/ntms
+conf/nordichi,Nordic Conference on Human-Computer Interaction,Regional:Scandinavia,https://dblp.org/db/conf/nordichi
+conf/naacl,North American Association for Computational Linguistics,A,https://dblp.uni-trier.de/db/conf/naacl
+conf/paclic,"Pacific Asia Conference on Language, Information and Computation",B,https://dblp.uni-trier.de/db/conf/paclic
+conf/pg,Pacific Conference on Computer Graphics and Applications,Journal Published,https://dblp.uni-trier.de/db/conf/pg
+conf/pricai,Pacific Rim International Conference on Artificial Intelligence,B,https://dblp.uni-trier.de/db/conf/pricai
+conf/prdc,Pacific Rim International Symposium on Dependable Computing,B,https://dblp.uni-trier.de/db/conf/prdc
+conf/pkaw,Pacific Rim Knowledge Acquisition Workshop,B,https://dblp.uni-trier.de/db/conf/pkaw
+conf/psb,Pacific Symposium on Biocomputing,National: USA,https://dblp.uni-trier.de/db/conf/psb
+conf/pakdd,Pacific-Asia Conference on Knowledge Discovery and Data Mining,A,https://dblp.uni-trier.de/db/conf/pakdd
+conf/pcm,Pacific-Rim Conference on Multimedia,C,https://dblp.uni-trier.de/db/conf/pcm
+conf/psivt,Pacific-Rim Symposium on Image and Video Technology,B,https://dblp.uni-trier.de/db/conf/psivt
+conf/parco,Parallel Computing,C,https://dblp.uni-trier.de/db/conf/parco
+conf/ppsn,Parallel Problem Solving from Nature,A,https://dblp.uni-trier.de/db/conf/ppsn
+conf/pam,Passive and Active Measurement Conference,B,https://dblp.uni-trier.de/db/conf/pam
+conf/epia,Portuguese Conference on Artificial Intelligence,Regional,https://dblp.uni-trier.de/db/conf/epia
+conf/paams,Practical Applications of Agents and Multiagent Systems,B,https://dblp.uni-trier.de/db/conf/paams
+conf/padl,Practical Aspects of Declarative Languages,B,https://dblp.uni-trier.de/db/conf/padl
+conf/ppopp,Principles and Practice of Parallel Programming,A,https://dblp.uni-trier.de/db/conf/ppopp
+journals/popets,Privacy Enhancing Technologies Symposium (was International Workshop of Privacy Enhancing Technologies),A,https://dblp.org/db/journals/popets
+conf/psd,Privacy in Statistical Databases,C,https://dblp.uni-trier.de/db/conf/psd
+conf/profes,Product Focused Software Process Improvement,B,https://dblp.uni-trier.de/db/conf/profes
+conf/rtss,Real Time Systems Symposium,A*,https://dblp.uni-trier.de/db/conf/rtss
+conf/robocup,Robot Soccer World Cup,B,https://dblp.uni-trier.de/db/conf/robocup
+conf/sacrypt,Selected Areas in Cryptography,B,https://dblp.uni-trier.de/db/conf/sacrypt
+conf/i-semantics,Semantics - International Conference on Semantic Systems,National: Austria,https://dblp.uni-trier.de/db/conf/i-semantics
+conf/sgai,SGAI International Conference on Artificial Intelligence,National: UK,https://dblp.uni-trier.de/db/conf/sgai
+conf/sdm,SIAM International Conference on Data Mining,A,https://dblp.uni-trier.de/db/conf/sdm
+conf/sashimi-ws,Simulation and Synthesis in Medical Imaging,C,https://dblp.org/db/conf/sashimi-ws
+conf/cisc,SKLOIS Conference on Information Security and Cryptology,National: China,https://dblp.uni-trier.de/db/conf/cisc
+conf/cardis,Smart Card Research and Advanced Application Conference,B,https://dblp.uni-trier.de/db/conf/cardis
+conf/splc,Software Product Lines Conference,B,https://dblp.org/db/conf/splc
+conf/qrs,"Software Quality, Reliability, and Security (was International Conference on Quality Software, QSIC, that merged with SERE 2015)",B,https://dblp.uni-trier.de/db/conf/qrs
+conf/sas,Static Analysis Symposium,B,https://dblp.uni-trier.de/db/conf/sas
+conf/sspr,Structural and Syntactical Pattern Recognition,B,https://dblp.uni-trier.de/db/conf/sspr
+conf/scsc,Summer Computer Simulation Conference,B,https://dblp.uni-trier.de/db/conf/scsc
+conf/mascots,Symposium Model Analysis and Simulation of Computer and Telecommunications Systems,B,https://dblp.uni-trier.de/db/conf/mascots
+conf/adbis,Symposium on Advances in DB and Information Systems,B,https://dblp.uni-trier.de/db/conf/adbis
+conf/sgp,Symposium on Geometry Processing,B,https://dblp.uni-trier.de/db/conf/sgp
+conf/hotchips,Symposium on High Performance Chips,C,https://dblp.uni-trier.de/db/conf/hotchips
+conf/nsdi,"Symposium on Networked Systems, Design and Implementation",National: USA,https://dblp.uni-trier.de/db/conf/nsdi
+conf/spaa,Symposium on Parallelism in Algorithms and Architectures,A,https://dblp.uni-trier.de/db/conf/spaa
+conf/srds,Symposium on Reliable Distributed Systems,B,https://dblp.uni-trier.de/db/conf/srds
+conf/sss,"Symposium on Stabilization, Safety, and Security of Distributed Systems",C,https://dblp.uni-trier.de/db/conf/sss
+conf/soups,Symposium On Usable Privacy and Security,B,https://dblp.uni-trier.de/db/conf/soups
+conf/tei,"Tangible, Embedded, and Embodied Interaction",A,https://dblp.uni-trier.de/db/conf/tei
+conf/tools,Technology of Object-Oriented Languages and Systems,B,https://dblp.uni-trier.de/db/conf/tools
+conf/tridentcom,Testbeds and Research Infrastructures for the Development of Networks and Communities,National: China,https://dblp.uni-trier.de/db/conf/tridentcom
+conf/systor,The ACM International System and Storage Conference,National:Israel,https://dblp.org/db/conf/systor
+conf/fnc,The International Conference on Future Networks and Communications,Unranked,https://dblp.uni-trier.de/db/conf/fnc
+conf/intenv,The International Conference on Intelligent Environments,B,https://dblp.uni-trier.de/db/conf/intenv
+conf/vecos,The International Conference on Verification and Evaluation of Computer and Communication Systems,C,https://dblp.uni-trier.de/db/conf/vecos
+conf/raid,"The International Symposium on Research in Attacks, Intrusions and Defenses (was International Symposium on Recent Advances in Intrusion Detection)",A,https://dblp.uni-trier.de/db/conf/raid
+conf/socs,The Symposium of Combinatorial Search,B,https://dblp.uni-trier.de/db/conf/socs
+conf/tark,Theoretical Aspects of Rationality and Knowledge,A,https://dblp.uni-trier.de/db/conf/tark
+conf/tcc,Theory of Cryptography Conference,A,https://dblp.uni-trier.de/db/conf/tcc
+conf/tacas,Tools and Algorithms for Construction and Analysis of Systems,A,https://dblp.uni-trier.de/db/conf/tacas
+conf/usenix,Usenix Annual Technical Conference,A,https://dblp.uni-trier.de/db/conf/usenix
+conf/ndss,Usenix Network and Distributed System Security Symposium,A*,https://dblp.uni-trier.de/db/conf/ndss
+conf/uss,Usenix Security Symposium,A*,https://dblp.uni-trier.de/db/conf/uss
+conf/osdi,Usenix Symposium on Operating Systems Design and Implementation,A*,https://dblp.uni-trier.de/db/conf/osdi
+conf/hotos,USENIX Workshop on Hot Topics in Operating Systems,A,https://dblp.uni-trier.de/db/conf/hotos
+conf/ucc,Utility and Cloud Computing,Unranked,https://dblp.uni-trier.de/db/conf/ucc
+conf/vmcai,"Verification, Model Checking and Abstract Interpretation",B,https://dblp.uni-trier.de/db/conf/vmcai
+conf/vinci,Visual Information Communication and Interaction,C,https://dblp.uni-trier.de/db/conf/vinci
+conf/apweb,Web and Big Data,B,https://dblp.uni-trier.de/db/conf/apweb
+conf/wsc,Winter Simulation Conference,B,https://dblp.uni-trier.de/db/conf/wsc
+conf/wd,Wireless Days,C,https://dblp.uni-trier.de/db/conf/wd
+conf/wistp,Workshop in Information Security Theory and Practices,C,https://dblp.uni-trier.de/db/conf/wistp
+conf/alenex,Workshop on Algorithm Engineering and Experiments,A,https://dblp.uni-trier.de/db/conf/alenex
+conf/atmos,"Workshop on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems",C,https://dblp.uni-trier.de/db/conf/atmos
+conf/waw,Workshop on Algorithms And Models For The Web Graph,C,https://dblp.uni-trier.de/db/conf/waw
+conf/wabi,Workshop on Algorithms in Bioinformatics,C,https://dblp.uni-trier.de/db/conf/wabi
+conf/analco,Workshop on Analytic Algorithmics and Combinatorics,B,https://dblp.uni-trier.de/db/conf/analco
+conf/waoa,Workshop on Approximation and Online Algorithms,B,https://dblp.uni-trier.de/db/conf/waoa
+conf/wcae,Workshop on Computer Architecture Education,National: USA,https://dblp.uni-trier.de/db/conf/wcae
+conf/ches,Workshop on Cryptographic Hardware and Embedded Systems,A,https://dblp.uni-trier.de/db/conf/ches
+conf/fdtc,Workshop on Fault Diagnosis and Tolerance in Cryptography,C,https://dblp.uni-trier.de/db/conf/fdtc
+conf/jsspp,Workshop on Job Scheduling Strategies for Parallel Processing,B,https://dblp.uni-trier.de/db/conf/jsspp
+conf/wollic,"Workshop on Logic, Language, Information and Computation",B,https://dblp.uni-trier.de/db/conf/wollic
+conf/wmcsa,Workshop on Mobile Computing Systems and Applications,National: USA,https://dblp.uni-trier.de/db/conf/wmcsa
+conf/waifi,Workshop on the Arithmetic of Finite Fields,C,https://dblp.uni-trier.de/db/conf/waifi
+conf/worldcist,World Conference on Information Systems and Technologies,C,https://dblp.uni-trier.de/db/conf/worldcist
