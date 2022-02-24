@@ -28,10 +28,9 @@ plt.subplot(211)
 plt.hist(x1, bins=logbins, log = True)
 plt.xscale('log')
 plt.title("log-log collaborator visualization")
-plt.xlabel("log of bollaborator count")
+plt.xlabel("log of collaborator count")
 plt.ylabel("log of author count")
-plt.show()
-plt.savefig("vis1-collaborator-distribution.png")
+plt.savefig("vis1-collaborator-distribution.jpg")
 
 
 # --------------- vis2 publication --------------------
@@ -43,7 +42,6 @@ plt.xscale('log')
 plt.title("log-log publication visualization")
 plt.xlabel("log of publication count")
 plt.ylabel("log of author count")
-plt.show()
-plt.savefig("vis2-publication-distribution.png")
+plt.savefig("vis2-publication-distribution.jpg")
 
 
