@@ -16,7 +16,7 @@ create table Publication(
 	pubid serial primary key,
 	pubkey text,
 	title text,
-	year text
+	year integer
 	);
 	
 create table Authored(
