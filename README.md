@@ -2,6 +2,10 @@
 ------------------- Explanation of code and tips on how to run --------------------
 * the .csv files in this folder are just for easier reference.
 
+### 2 Database Design and part of $ Integration
+
+1. When creating the schema, I didn't add primary and foreign key constraints yet dur to the long run time. I added after the table was populated.
+
 ### 3 Transformation
 
 1. I'm using intermediate tables:
