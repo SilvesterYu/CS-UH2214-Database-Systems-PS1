@@ -14,59 +14,36 @@ import pandas as pd
 df1 = pd.read_csv("vis1.csv")
 df2 = pd.read_csv("vis2.csv")
 
-x = df1.collabcount.to_list()
-y = df1.authorcount.to_list()
+x1 = df1.collabcount.to_list()
+x2 = df2.pubcount.to_list()
 
-print("this is x", x)
-print("this is y", y)
+x1 = pd.Series(x1)
+x2 = pd.Series(x2)
 
-# Creating figure and axes
-fig, (ax1, ax2) = plt.subplots(2, 1, figsize=[7, 11])
 
-# Plotting the graph using log
-ax1.plot(x, y, ':b', linewidth=2, label='vis1')
-ax1.set_title('log plot', fontsize=15)
-ax1.set_xlabel('collaborator count', fontsize=13)
-ax1.set_ylabel('log(author count)', fontsize=13)
-ax1.set_yscale('log')
-ax1.legend()
-
-# Plotting the graph with Log ticks at x and y axis using loglog
-ax2.loglog(x, y, '--r', linewidth=2, label='vis1')
-ax2.set_title('loglog plot', fontsize=15)
-ax2.set_xlabel('log(collaborator count)', fontsize=13)
-ax2.set_ylabel('log(author count)', fontsize=13)
-ax2.legend()
-
-plt.tight_layout()
+# --------------- vis1 collaborator --------------------
+hist, bins, _ = plt.hist(x1, bins=50)
+logbins = np.logspace(np.log10(bins[0]),np.log10(bins[-1]),len(bins))
+plt.subplot(211)
+plt.hist(x1, bins=logbins, log = True)
+plt.xscale('log')
+plt.title("log-log collaborator visualization")
+plt.xlabel("log of bollaborator count")
+plt.ylabel("log of author count")
 plt.show()
-fig.savefig("vis1.png")
+plt.savefig("vis1-collaborator-distribution.png")
 
-# -------------------- for vis2 -----------------------------
-x = df2.pubcount.to_list()
-y = df2.authorcount.to_list()
 
-print("this is x", x)
-print("this is y", y)
-
-# Creating figure and axes
-fig, (ax1, ax2) = plt.subplots(2, 1, figsize=[7, 11])
-
-# Plotting the graph using log
-ax1.hist(x, y, ':b', linewidth=2, label='vis2')
-ax1.set_title('log plot', fontsize=15)
-ax1.set_xlabel('publication count', fontsize=13)
-ax1.set_ylabel('log(cuthor count)', fontsize=13)
-ax1.set_yscale('log')
-ax1.legend()
-
-# Plotting the graph with Log ticks at x and y axis using loglog
-ax2.loglog(x, y, '--r', linewidth=2, label='vis2')
-ax2.set_title('loglog plot', fontsize=15)
-ax2.set_xlabel('log(publication count)', fontsize=13)
-ax2.set_ylabel('log(author count)', fontsize=13)
-ax2.legend()
-
-plt.tight_layout()
+# --------------- vis2 publication --------------------
+hist, bins, _ = plt.hist(x2, bins=50)
+logbins = np.logspace(np.log10(bins[0]),np.log10(bins[-1]),len(bins))
+plt.subplot(221)
+plt.hist(x2, bins=logbins, log = True)
+plt.xscale('log')
+plt.title("log-log publication visualization")
+plt.xlabel("log of publication count")
+plt.ylabel("log of author count")
 plt.show()
-fig.savefig("vis2.png")
+plt.savefig("vis2-publication-distribution.png")
+
+
