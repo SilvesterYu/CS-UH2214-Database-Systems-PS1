@@ -1,8 +1,8 @@
 # DatabasePS1
-### Citation
+## Citation
 problem set from CSE 544 - Principles of Database Systems taught @ University of Washington.
 
-### What are Here and How to Run
+## What are Here and How to Run
 
 * the .csv files in this folder are just for easier reference.
 
