@@ -1,8 +1,12 @@
 # DatabasePS1
-------------------- Explanation of code and tips on how to run --------------------
+### Citation
+problem set from CSE 544 - Principles of Database Systems taught @ University of Washington.
+
+### What are Here and How to Run
+
 * the .csv files in this folder are just for easier reference.
 
-### 2 Database Design and part of $ Integration
+### 2 Database Design and Integration
 
 1. When creating the schema, I didn't add primary and foreign key constraints yet dur to the long run time. I added after the table was populated.
 
