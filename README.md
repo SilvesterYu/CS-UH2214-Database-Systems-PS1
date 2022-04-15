@@ -1,4 +1,7 @@
 # DatabasePS1
+
+This is the problem set 1 for CS-UH 2214 Database Systems course at NYUAD
+
 ## Citation
 problem set from CSE 544 - Principles of Database Systems taught @ University of Washington.
 
